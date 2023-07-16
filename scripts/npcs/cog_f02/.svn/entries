@@ -1,0 +1,79 @@
+8
+
+dir
+766
+https://svn1.hosted-projects.com/SagaE/SagaLogin/SagaScripts/npcs/cog_f02
+https://svn1.hosted-projects.com/SagaE/SagaLogin
+
+
+
+2008-03-18T04:39:37.847801Z
+719
+liiir1985
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3cd38c5e-430c-48a7-9315-64845c2db491
+
+MapItems
+dir
+
+Dieter.cs
+file
+
+
+
+
+2008-05-20T07:42:11.781250Z
+bbe8f20c48e786ef6b806ca512494b00
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Lucia.cs
+file
+
+
+
+
+2008-05-20T07:42:11.781250Z
+f870792420aa8fb390bd7ee8ea8fc20e
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Mailboxes
+dir
+
+Warpers
+dir
+
+Skillmaster
+dir
+
+QuestBoards
+dir
+
+Isidor.cs
+file
+
+
+
+
+2008-05-20T07:42:11.796875Z
+f9493d16f2a11d2549ba7cf9bb0282d1
+2008-01-09T17:05:42.542702Z
+666
+s_niyan
+

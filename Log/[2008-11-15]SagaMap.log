@@ -1,0 +1,227 @@
+11/15/2008 1:26:20 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:26:20 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:26:26 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:26:26 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:26:32 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:26:32 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:26:38 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:26:38 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:26:44 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:26:44 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:26:51 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:26:51 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:26:57 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:26:57 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:03 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:03 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:09 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:09 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:15 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:15 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:21 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:21 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:27 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:27 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:33 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:33 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:39 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:39 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:45 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:45 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:51 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:51 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:27:57 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:27:57 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:28:03 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:28:03 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:28:09 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:28:09 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:28:14 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:28:14 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:28:20 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:28:20 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:28:26 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:28:26 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:28:32 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:28:32 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 1:28:38 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 1:28:38 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:32:20 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:32:20 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:32:26 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:32:26 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:32:32 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:32:32 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:32:38 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:32:38 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:32:44 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:32:44 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:32:50 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:32:50 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:32:56 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:32:56 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:02 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:02 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:08 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:08 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:14 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:14 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:20 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:20 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:26 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:26 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:32 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:32 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:38 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:38 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:44 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:44 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+11/15/2008 3:33:50 AM|[Error]Failed... Trying again in 5sec
+11/15/2008 3:33:50 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) in E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:line 50
+2008-11-15 17:05:40|[Error]Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.RemoveAt(Int32 index)
+   at SagaMap.Map.GetRegionPlayerCount(UInt32 region) in E:\Saga\SagaMap\Map.cs:line 476
+   at SagaMap.Tasks.MobAI.CallBack(Object o) in E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:line 108
+2008-11-15 17:05:40|[Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.RemoveAt(Int32 index)
+   at SagaMap.Map.GetRegionPlayerCount(UInt32 region) in E:\Saga\SagaMap\Map.cs:line 476
+   at SagaMap.Tasks.MobAI.CallBack(Object o) in E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:line 108
+2008-11-15 17:43:36|[Error]Object reference not set to an instance of an object.
+   at SagaMap.MapClient.OnNPCShopBuy(NPCShopBuy p) in E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:line 368
+   at SagaMap.Packets.Client.NPCShopBuy.Parse(Client client) in E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCShopBuy.cs:line 36
+   at SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-15 21:54:40|[Error]The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at SagaMap.Tasks.MobAI.CallBack(Object o) in E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:line 104
+2008-11-15 21:54:40|[Error]   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at SagaMap.Tasks.MobAI.CallBack(Object o) in E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:line 104
+2008-11-15 22:20:51|[Error]Object reference not set to an instance of an object.
+   at SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) in E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:line 180
+   at SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) in E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:line 29
+   at SagaLib.NetIO.ReceiveData(IAsyncResult ar)

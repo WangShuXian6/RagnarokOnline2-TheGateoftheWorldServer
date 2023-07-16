@@ -1,0 +1,6 @@
+START SagaLogin.exe
+TIMEOUT 100
+START SagaMap.exe
+TIMEOUT 100
+START SagaGateway.exe
+EXIT

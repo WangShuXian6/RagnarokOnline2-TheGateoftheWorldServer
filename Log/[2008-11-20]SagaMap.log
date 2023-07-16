@@ -1,0 +1,280 @@
+2008-11-20 0:30:43|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 0:39:25|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 0:41:06|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 104
+2008-11-20 0:41:06|[Error]   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 104
+2008-11-20 1:13:41|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 1:13:43|[Error]无法将类型为“SagaDB.Actors.ActorPC”的对象强制转换为类型“SagaDB.Actors.ActorNPC”。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 308
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 1:18:43|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 1:45:04|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 2:24:36|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 2:36:23|[Error]已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 2:36:23|[Error]   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 2:50:40|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.Pause() 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 188
+11/20/2008 12:38:13 PM|[Error]索引超出了数组界限。
+   在 SagaMap.HeightMap.GetZ(Single x, Single y, Single& z) 位置 E:\Saga\SagaMap\HeightMap.cs:行号 139
+   在 SagaMap.Map.GetHeight(Single x, Single y) 位置 E:\Saga\SagaMap\Map.cs:行号 105
+   在 SagaMap.Manager.ScriptManager.GetRandomPos(Map map, Single x, Single y, Single range) 位置 E:\Saga\SagaMap\Manager\ScriptManager.cs:行号 355
+   在 SagaMap.Manager.ScriptManager.AddSpawn(XmlNode spawn) 位置 E:\Saga\SagaMap\Manager\ScriptManager.cs:行号 289
+2008-11-20 12:50:23|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 12:54:00|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 13:06:50|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 13:28:47|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 13:35:57|[Error]已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 13:35:57|[Error]   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 14:13:51|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 14:17:52|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 14:19:12|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 14:34:05|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 14:46:52|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 14:49:29|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 14:55:02|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 14:59:32|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 15:07:15|[Error]无法将类型为“SagaDB.Actors.ActorPC”的对象强制转换为类型“SagaDB.Actors.ActorNPC”。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 308
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 15:22:55|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 15:50:11|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 16:18:00|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 16:19:17|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 16:58:53|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 17:13:09|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 17:23:16|[Error]已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 17:23:16|[Error]   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 17:24:40|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 18:27:20|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 18:38:04|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 18:39:56|[Error]值不能为空。
+参数名: key
+   在 System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.Pause() 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 188
+2008-11-20 18:40:11|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 18:41:50|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 18:44:22|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 18:46:00|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 18:58:31|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 19:21:47|[Error]无法将类型为“SagaDB.Actors.ActorPC”的对象强制转换为类型“SagaDB.Actors.ActorNPC”。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 308
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 19:45:57|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 19:52:04|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 19:57:39|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 20:22:44|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.Pause() 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 188
+2008-11-20 20:27:14|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 20:33:29|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 20:45:36|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 21:07:29|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnSkillAddSpecial(SkillAddSpecial p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Skill.cs:行号 180
+   在 SagaMap.Packets.Client.SkillAddSpecial.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\9 - Skill\SkillAddSpecial.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 21:07:55|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 21:29:20|[Error]值不能为空。
+参数名: key
+   在 System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.Pause() 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 188
+2008-11-20 22:23:29|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 22:27:39|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 22:35:29|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.Enumerator.MoveNext()
+   在 SagaMap.Map.SendEventToAllActorsWhoCanSeeActor(EVENT_TYPE etype, MapEventArgs args, Actor sActor, Boolean sendToSourceActor) 位置 E:\Saga\SagaMap\Map.cs:行号 721
+2008-11-20 22:41:54|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.Npc.HandelMenu(ActorPC pc, Byte Button, Byte Menu) 位置 E:\Saga\SagaMap\Scripting\Npc.cs:行号 907
+   在 SagaMap.MapClient.OnNPCMenu(NPCMenu p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.NPC.cs:行号 49
+   在 SagaMap.Packets.Client.NPCMenu.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCMenu.cs:行号 34
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 23:27:35|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 23:30:39|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 23:47:47|[Error]已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 23:47:47|[Error]   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 128
+2008-11-20 23:54:47|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 104
+2008-11-20 23:54:47|[Error]   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 104
+2008-11-20 23:55:44|[Error]索引超出了数组界限。
+   在 SagaMap.MapClient.OnWeaponAuge(WeaponAuge p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 402
+   在 SagaMap.Packets.Client.WeaponAuge.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\WeaponAuge.cs:行号 37
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-20 23:58:15|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)

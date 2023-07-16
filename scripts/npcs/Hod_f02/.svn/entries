@@ -1,0 +1,108 @@
+8
+
+dir
+766
+https://svn1.hosted-projects.com/SagaE/SagaLogin/SagaScripts/npcs/Hod_f02
+https://svn1.hosted-projects.com/SagaE/SagaLogin
+
+
+
+2008-01-28T14:07:45.863543Z
+692
+s_dumbie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3cd38c5e-430c-48a7-9315-64845c2db491
+
+MapItems
+dir
+
+Dunstan.cs
+file
+
+
+
+
+2008-05-20T07:42:24.859375Z
+07385f1ddb3c5368ea3f83ee089b828d
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+has-props
+
+Mailboxes
+dir
+
+Warpers
+dir
+
+Sill.cs
+file
+
+
+
+
+2008-05-20T07:42:24.859375Z
+08c5eee459117f4f689285d9dcb8d6cd
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Donas.cs
+file
+
+
+
+
+2008-05-20T07:42:24.875000Z
+5b2c398ccadcdc7050fa58ed6110f2fe
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Skillmaster
+dir
+
+QuestBoards
+dir
+
+Shops
+dir
+
+Mann.cs
+file
+
+
+
+
+2008-05-20T07:42:24.875000Z
+028ca74c2b9c4b7be73114f7c4704e83
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Teos.cs
+file
+
+
+
+
+2008-05-20T07:42:24.890625Z
+ea8a2f8125ffcc6cc972e4cc64bbd695
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+has-props
+

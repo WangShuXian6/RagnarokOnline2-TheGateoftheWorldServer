@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/SagaE/SagaLogin/!svn/ver/731/SagaScripts/npcs/Ships
+END
+CogniToPron.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/SagaE/SagaLogin/!svn/ver/671/SagaScripts/npcs/Ships/CogniToPron.cs
+END
+HodeToPron.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/SagaE/SagaLogin/!svn/ver/731/SagaScripts/npcs/Ships/HodeToPron.cs
+END
+PronToCogni.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/SagaE/SagaLogin/!svn/ver/629/SagaScripts/npcs/Ships/PronToCogni.cs
+END
+PronToHode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/SagaE/SagaLogin/!svn/ver/629/SagaScripts/npcs/Ships/PronToHode.cs
+END

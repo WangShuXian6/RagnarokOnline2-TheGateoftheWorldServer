@@ -1,0 +1,151 @@
+8
+
+dir
+766
+https://svn1.hosted-projects.com/SagaE/SagaLogin/SagaScripts/npcs/Hod_f00
+https://svn1.hosted-projects.com/SagaE/SagaLogin
+
+
+
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3cd38c5e-430c-48a7-9315-64845c2db491
+
+MapItems
+dir
+
+Birscha.cs
+file
+
+
+
+
+2008-05-20T07:42:07.828125Z
+e31c8bdc081ad3e980f2d3f8d5c42322
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Cody.cs
+file
+
+
+
+
+2008-05-20T07:42:07.828125Z
+2960e5a90196ebb14e6664f548f58a60
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Mailboxes
+dir
+
+Waynedi.cs
+file
+
+
+
+
+2008-05-20T07:42:07.828125Z
+26cfa0fc88b449d97ed2f2c2f1d304f9
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Aigor.cs
+file
+
+
+
+
+2008-05-20T07:42:07.828125Z
+f12118d4fee79c697bf85f3307cb030e
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Redick.cs
+file
+
+
+
+
+2008-05-20T07:42:07.828125Z
+3c7d590104d82c5ef0676727bfe15594
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Kwanto.cs
+file
+
+
+
+
+2008-05-20T07:42:07.828125Z
+c631a416aa633595d8dce223299c8b16
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Sally.cs
+file
+
+
+
+
+2008-05-20T07:42:07.843750Z
+2c28af62aa6622e7ddd04c81b54fc840
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Skillmaster
+dir
+
+Conrad.cs
+file
+
+
+
+
+2008-05-20T07:42:07.843750Z
+ac768c0e22f883ed1199700c87928e43
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+Whitney.cs
+file
+
+
+
+
+2008-05-20T07:42:07.843750Z
+604586b1d36e38c94c9f4522c0610dbb
+2008-04-15T00:09:30.641964Z
+753
+s_chii
+
+QuestBoards
+dir
+
+Shops
+dir
+

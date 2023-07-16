@@ -1,0 +1,167 @@
+8
+
+dir
+766
+https://svn1.hosted-projects.com/SagaE/SagaLogin/SagaScripts/npcs/Prt_f02
+https://svn1.hosted-projects.com/SagaE/SagaLogin
+
+
+
+2008-03-20T21:17:00.211628Z
+728
+liiir1985
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3cd38c5e-430c-48a7-9315-64845c2db491
+
+MapItems
+dir
+
+Mailboxes
+dir
+
+Warpers
+dir
+
+Alment.cs
+file
+
+
+
+
+2008-05-20T07:42:48.093750Z
+82a13231bf115de47e61ef25f031e1fc
+2008-01-26T21:18:08.718969Z
+688
+s_dumbie
+
+Achim.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+7b9437b3d482306596b1f50af9adc57e
+2008-01-26T21:18:08.718969Z
+688
+s_dumbie
+
+Skillmaster
+dir
+
+QuestBoards
+dir
+
+Shops
+dir
+
+Hanne.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+9f10ddd46897799c6fd4510a751dacae
+2008-01-26T21:18:08.718969Z
+688
+s_dumbie
+
+Henna.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+af3892630bee8c1bf1db6bb688b62592
+2008-01-26T21:18:08.718969Z
+688
+s_dumbie
+
+Sabena.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+42874d3351461397461edb6aa8fd7254
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Quadro.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+121dd41e628e86006f2abe5a1d7c3f1c
+2008-01-26T21:18:08.718969Z
+688
+s_dumbie
+
+Mitzi.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+d36d64697e519b47f300d8c85d386a9a
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Orak.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+0da55326164394b514a28c56b70e8a79
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Lothair.cs
+file
+
+
+
+
+2008-05-20T07:42:48.109375Z
+90316273034fc15b1bfe89f02b522285
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+
+Nernst.cs
+file
+
+
+
+
+2008-05-20T07:42:48.125000Z
+4f248e6e7acb4e785ba256d0c9665e22
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+has-props
+

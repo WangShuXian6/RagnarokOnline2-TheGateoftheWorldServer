@@ -1,0 +1,30 @@
+5/8/2009 3:56:46 AM|[Error]Failed... Trying again in 5sec
+5/8/2009 3:56:46 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) 位置 E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:行号 50
+5/8/2009 3:56:52 AM|[Error]Failed... Trying again in 5sec
+5/8/2009 3:56:52 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) 位置 E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:行号 50
+5/8/2009 3:56:58 AM|[Error]Failed... Trying again in 5sec
+5/8/2009 3:56:58 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) 位置 E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:行号 50
+5/8/2009 3:57:04 AM|[Error]Failed... Trying again in 5sec
+5/8/2009 3:57:04 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) 位置 E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:行号 50
+5/8/2009 3:58:57 AM|[Error]Failed... Trying again in 5sec
+5/8/2009 3:58:57 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) 位置 E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:行号 50
+5/8/2009 5:20:27 AM|[Error]Failed... Trying again in 5sec
+5/8/2009 5:20:27 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) 位置 E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:行号 50

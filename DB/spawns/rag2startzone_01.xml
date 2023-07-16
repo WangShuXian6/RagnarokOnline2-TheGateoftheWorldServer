@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<spawns>
+ <spawn>
+    <id>10407</id>
+    <map>rag2startzone_01</map>
+    <x>1387</x>
+    <y>998</y>
+    <amount>15</amount>
+    <range>2000</range>
+  </spawn>
+</spawns>

@@ -1,0 +1,29 @@
+2008-11-21 10:20:36|[Error]未将对象引用设置到对象的实例。
+   在 SagaDB.MYSQLUserDB.WriteUser(User user) 位置 E:\Saga\SagaDB\MySQLUserDB.cs:行号 145
+   在 SagaLogin.LoginClient.OnSendLogin(SendLogin p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 206
+2008-11-21 10:22:08|[Error]未将对象引用设置到对象的实例。
+   在 SagaDB.MYSQLUserDB.WriteUser(User user) 位置 E:\Saga\SagaDB\MySQLUserDB.cs:行号 145
+   在 SagaLogin.LoginClient.OnSendLogin(SendLogin p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 206
+11/21/2008 10:22:19 AM|[Error]Fatal: An unhandled exception is thrown, terminating...
+11/21/2008 10:22:19 AM|[Error]Error Message:Unable to connect to any of the specified MySQL hosts.
+11/21/2008 10:22:19 AM|[Error]Call Stack:   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 SagaDB.MYSQLUserDB.isConnected() 位置 E:\Saga\SagaDB\MySQLUserDB.cs:行号 80
+   在 SagaLogin.LoginServer.EnsureUserDB() 位置 E:\Saga\SagaLogin\LoginServer.cs:行号 119
+   在 SagaLogin.LoginServer.Main(String[] args) 位置 E:\Saga\SagaLogin\LoginServer.cs:行号 222
+2008-11-21 14:59:02|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaLogin.LoginClient.OnGetCharData(GetCharData p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 444
+   在 SagaLogin.Packets.Client.GetCharData.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GetCharData.cs:行号 24
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-21 21:01:25|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaLogin.LoginClient.OnLogout(GwLogout p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 122
+   在 SagaLogin.Packets.Client.GwLogout.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GwLogout.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)

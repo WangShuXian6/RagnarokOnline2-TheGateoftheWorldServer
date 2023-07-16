@@ -1,0 +1,52 @@
+8
+
+dir
+766
+https://svn1.hosted-projects.com/SagaE/SagaLogin/SagaScripts/npcs/cog_f01_02/Mailboxes
+https://svn1.hosted-projects.com/SagaE/SagaLogin
+
+
+
+2008-03-18T04:39:37.847801Z
+719
+liiir1985
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3cd38c5e-430c-48a7-9315-64845c2db491
+
+MailBox.cs
+file
+
+
+
+
+2008-05-20T07:42:08.046875Z
+62e9f681585aa58f7529b42504d21526
+2008-03-18T04:39:37.847801Z
+719
+liiir1985
+
+KafraMailBoxes.cs
+file
+
+
+
+
+2008-05-20T07:42:08.046875Z
+28506e93f9dcfc42e2ac354cb0e39f92
+2007-12-30T16:03:08.314070Z
+629
+Willyham
+

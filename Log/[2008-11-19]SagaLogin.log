@@ -1,0 +1,62 @@
+2008-11-19 0:09:49|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaLogin.LoginClient.OnLogout(GwLogout p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 122
+   在 SagaLogin.Packets.Client.GwLogout.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GwLogout.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-19 10:44:22|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaLogin.LoginClient.OnGetCharData(GetCharData p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 444
+   在 SagaLogin.Packets.Client.GetCharData.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GetCharData.cs:行号 24
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-19 10:44:25|Warning:DARKVOICE sent invalid char index 1
+2008-11-19 12:55:12|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaLogin.LoginClient.OnGetCharData(GetCharData p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 444
+   在 SagaLogin.Packets.Client.GetCharData.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GetCharData.cs:行号 24
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-19 12:55:14|Warning:QINGHJW sent invalid char index 1
+2008-11-19 16:12:28|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaLogin.LoginClient.OnLogout(GwLogout p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 122
+   在 SagaLogin.Packets.Client.GwLogout.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GwLogout.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-19 17:21:24|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaLogin.LoginClient.OnGetCharData(GetCharData p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 444
+   在 SagaLogin.Packets.Client.GetCharData.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GetCharData.cs:行号 24
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-19 17:21:27|Warning:SUCKER0932 sent invalid char index 1
+2008-11-19 21:01:32|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaLogin.LoginClient.OnGetCharData(GetCharData p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 444
+   在 SagaLogin.Packets.Client.GetCharData.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GetCharData.cs:行号 24
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-19 21:01:33|Warning:ZH858590 sent invalid char index 3
+2008-11-19 21:54:02|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaLogin.LoginClient.OnLogout(GwLogout p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 122
+   在 SagaLogin.Packets.Client.GwLogout.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GwLogout.cs:行号 29
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-19 23:12:41|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaLogin.LoginClient.OnGetCharData(GetCharData p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 444
+   在 SagaLogin.Packets.Client.GetCharData.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GetCharData.cs:行号 24
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)

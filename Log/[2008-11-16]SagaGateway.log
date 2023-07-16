@@ -1,0 +1,243 @@
+2008-11-16 4:40:02|[Error]Failed... Trying again in 5sec
+2008-11-16 4:40:02|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:40:08|[Error]Failed... Trying again in 5sec
+2008-11-16 4:40:08|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:40:14|[Error]Failed... Trying again in 5sec
+2008-11-16 4:40:14|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:40:20|[Error]Failed... Trying again in 5sec
+2008-11-16 4:40:20|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:40:26|[Error]Failed... Trying again in 5sec
+2008-11-16 4:40:26|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:40:33|[Error]Failed... Trying again in 5sec
+2008-11-16 4:40:33|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:41:49|[Error]Failed... Trying again in 5sec
+2008-11-16 4:41:49|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:41:55|[Error]Failed... Trying again in 5sec
+2008-11-16 4:41:55|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:42:01|[Error]Failed... Trying again in 5sec
+2008-11-16 4:42:01|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:42:23|[Error]Failed... Trying again in 5sec
+2008-11-16 4:42:23|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:42:29|[Error]Failed... Trying again in 5sec
+2008-11-16 4:42:29|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:46:53|[Error]Failed... Trying again in 5sec
+2008-11-16 4:46:54|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 4:47:00|[Error]Failed... Trying again in 5sec
+2008-11-16 4:47:00|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.108:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 14:58:09|[Error]Failed... Trying again in 5sec
+2008-11-16 14:58:09|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 14:58:15|[Error]Failed... Trying again in 5sec
+2008-11-16 14:58:15|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 15:23:35|[Error]Failed... Trying again in 5sec
+2008-11-16 15:23:36|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:24:02|[Error]Failed... Trying again in 5sec
+2008-11-16 15:24:02|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:24:28|[Error]Failed... Trying again in 5sec
+2008-11-16 15:24:28|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:24:53|[Error]Failed... Trying again in 5sec
+2008-11-16 15:24:53|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:25:19|[Error]Failed... Trying again in 5sec
+2008-11-16 15:25:19|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:25:45|[Error]Failed... Trying again in 5sec
+2008-11-16 15:25:45|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:25:50|[Error]Cannot connect to the Mapserver,please check the configuration!
+2008-11-16 15:25:50|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 15:25:51|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaGateway.LoginSession.OnKick(ClientKick p)
+   在 SagaGateway.Packets.Login.Get.ClientKick.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 15:26:42|[Error]Failed... Trying again in 5sec
+2008-11-16 15:26:42|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:27:08|[Error]Failed... Trying again in 5sec
+2008-11-16 15:27:08|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:27:34|[Error]Failed... Trying again in 5sec
+2008-11-16 15:27:34|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:28:00|[Error]Failed... Trying again in 5sec
+2008-11-16 15:28:00|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:28:26|[Error]Failed... Trying again in 5sec
+2008-11-16 15:28:26|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:28:52|[Error]Failed... Trying again in 5sec
+2008-11-16 15:28:52|[Error]System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.88.11.108:3011
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.MapSession.Connect()
+2008-11-16 15:28:57|[Error]Cannot connect to the Mapserver,please check the configuration!
+2008-11-16 15:28:57|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 15:34:01|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaGateway.LoginSession.OnKick(ClientKick p)
+   在 SagaGateway.Packets.Login.Get.ClientKick.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 15:34:13|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 15:35:07|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 15:38:36|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaGateway.LoginSession.OnKick(ClientKick p)
+   在 SagaGateway.Packets.Login.Get.ClientKick.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 15:38:51|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:08:28|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:12:37|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaGateway.LoginSession.OnKick(ClientKick p)
+   在 SagaGateway.Packets.Login.Get.ClientKick.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:12:59|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:25:20|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaGateway.LoginSession.OnKick(ClientKick p)
+   在 SagaGateway.Packets.Login.Get.ClientKick.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:25:30|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:26:18|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:28:12|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaGateway.LoginSession.OnKick(ClientKick p)
+   在 SagaGateway.Packets.Login.Get.ClientKick.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:28:28|[Error]未将对象引用设置到对象的实例。
+   在 SagaGateway.MapSession.NewSession(GatewayClient client, UInt32 charID, UInt32 Validation)
+   在 SagaGateway.GatewayClient.SendToMap(SendToMap p)
+   在 SagaGateway.LoginSession.OnSendToMap(SendToMap p)
+   在 SagaGateway.Packets.Login.Get.SendToMap.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-16 16:29:08|[Error]Failed... Trying again in 5sec
+2008-11-16 16:29:08|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-16 16:29:17|[Error]Failed... Trying again in 5sec
+2008-11-16 16:29:17|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()

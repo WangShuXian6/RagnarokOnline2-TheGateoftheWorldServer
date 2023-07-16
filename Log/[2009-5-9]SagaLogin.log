@@ -1,0 +1,3 @@
+2009-5-9 0:06:14|[Error]未将对象引用设置到对象的实例。
+   在 SagaLogin.Packets.Map.Get.MapPong.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Map\Get\MapPong.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)

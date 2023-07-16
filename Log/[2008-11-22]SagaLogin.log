@@ -1,0 +1,9 @@
+2008-11-22 6:53:35|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaLogin.LoginClient.OnGetCharData(GetCharData p) 位置 E:\Saga\SagaLogin\LoginClient.cs:行号 444
+   在 SagaLogin.Packets.Client.GetCharData.Parse(Client client) 位置 E:\Saga\SagaLogin\Packets\Client\GetCharData.cs:行号 24
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2008-11-22 6:53:43|Warning:4357706 sent invalid char index 1

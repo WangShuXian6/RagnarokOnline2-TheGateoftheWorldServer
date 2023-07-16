@@ -1,0 +1,207 @@
+090508  3:55:16  InnoDB: Started; log sequence number 0 123098893
+090508  3:55:17 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090508  4:01:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090508  4:01:15  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 123098903.
+InnoDB: Doing recovery: scanned up to log sequence number 0 123098903
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090508  4:01:15  InnoDB: Started; log sequence number 0 123098903
+090508  4:01:15 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090508 18:42:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090508 18:42:22  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 123368943.
+InnoDB: Doing recovery: scanned up to log sequence number 0 123368943
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090508 18:42:24  InnoDB: Started; log sequence number 0 123368943
+090508 18:42:26 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090508 23:23:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090508 23:23:27  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 123585682.
+InnoDB: Doing recovery: scanned up to log sequence number 0 123585682
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090508 23:23:28  InnoDB: Started; log sequence number 0 123585682
+090508 23:23:30 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090509  0:41:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090509  0:41:42  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 123676139.
+InnoDB: Doing recovery: scanned up to log sequence number 0 123676139
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090509  0:41:43  InnoDB: Started; log sequence number 0 123676139
+090509  0:41:43 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090509  9:04:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090509  9:04:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 124052817.
+InnoDB: Doing recovery: scanned up to log sequence number 0 124052817
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090509  9:04:50  InnoDB: Started; log sequence number 0 124052817
+090509  9:04:52 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090509 20:10:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090509 20:11:00  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 124680601.
+InnoDB: Doing recovery: scanned up to log sequence number 0 124680601
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090509 20:11:01  InnoDB: Started; log sequence number 0 124680601
+090509 20:11:02 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510  2:53:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510  2:53:53  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 124913861.
+InnoDB: Doing recovery: scanned up to log sequence number 0 124913861
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510  2:53:54  InnoDB: Started; log sequence number 0 124913861
+090510  2:53:55 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 11:43:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 11:43:10  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 125567434.
+InnoDB: Doing recovery: scanned up to log sequence number 0 125567434
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 11:43:11  InnoDB: Started; log sequence number 0 125567434
+090510 11:43:12 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 11:55:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 11:55:23  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 125628217.
+InnoDB: Doing recovery: scanned up to log sequence number 0 125628217
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 11:55:23  InnoDB: Started; log sequence number 0 125628217
+090510 11:55:23 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 11:55:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 11:55:47  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 125628227.
+InnoDB: Doing recovery: scanned up to log sequence number 0 125628227
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 11:55:47  InnoDB: Started; log sequence number 0 125628227
+090510 11:55:47 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 17:30:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 17:30:45  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 126526208.
+InnoDB: Doing recovery: scanned up to log sequence number 0 126526208
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 17:30:46  InnoDB: Started; log sequence number 0 126526208
+090510 17:30:47 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 17:45:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 17:45:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 126549489.
+InnoDB: Doing recovery: scanned up to log sequence number 0 126549489
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 17:45:55  InnoDB: Started; log sequence number 0 126549489
+090510 17:45:55 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 17:54:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 17:54:08  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 126550209.
+InnoDB: Doing recovery: scanned up to log sequence number 0 126550209
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 17:54:08  InnoDB: Started; log sequence number 0 126550209
+090510 17:54:08 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 18:06:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 18:06:28  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 126581552.
+InnoDB: Doing recovery: scanned up to log sequence number 0 126581552
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 18:06:29  InnoDB: Started; log sequence number 0 126581552
+090510 18:06:29 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 18:11:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 18:11:42  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 126582774.
+InnoDB: Doing recovery: scanned up to log sequence number 0 126582774
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 18:11:42  InnoDB: Started; log sequence number 0 126582774
+090510 18:11:42 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 19:28:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 19:28:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 126632719.
+InnoDB: Doing recovery: scanned up to log sequence number 0 126632719
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 19:28:40  InnoDB: Started; log sequence number 0 126632719
+090510 19:28:40 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary
+090510 19:52:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090510 19:52:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 126679966.
+InnoDB: Doing recovery: scanned up to log sequence number 0 126679966
+InnoDB: Last MySQL binlog file position 0 0, file name 
+090510 19:52:14  InnoDB: Started; log sequence number 0 126679966
+090510 19:52:14 [Note] \usr\local\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.16-nt'  socket: ''  port: 3306  Official MySQL binary

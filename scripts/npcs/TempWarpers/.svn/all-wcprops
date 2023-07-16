@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/SagaE/SagaLogin/!svn/ver/655/SagaScripts/npcs/TempWarpers
+END
+CognToPront.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/SagaE/SagaLogin/!svn/ver/629/SagaScripts/npcs/TempWarpers/CognToPront.cs
+END
+PronToHodem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/SagaE/SagaLogin/!svn/ver/629/SagaScripts/npcs/TempWarpers/PronToHodem.cs
+END
+HodeToPron.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/SagaE/SagaLogin/!svn/ver/629/SagaScripts/npcs/TempWarpers/HodeToPron.cs
+END
+PronToCognito.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/SagaE/SagaLogin/!svn/ver/629/SagaScripts/npcs/TempWarpers/PronToCognito.cs
+END

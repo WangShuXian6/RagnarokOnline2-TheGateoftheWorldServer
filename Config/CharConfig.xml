@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CharConfig>
+  <!-- Starting Status -->
+  <Map>11</Map>
+  <X>-17952.0</X>
+  <Y>10144.0</Y>
+  <Z>96.0</Z>
+  <HP>1000</HP>
+  <SP>600</SP>
+  <STR>50</STR>
+  <DEX>50</DEX>
+  <INT>50</INT>
+  <CON>50</CON>
+  <Item>16097</Item>
+  <Item>16061</Item>
+  <Item>3436</Item>
+  <Item>3491</Item>
+  <Skill>1406901</Skill>
+
+  <!-- Registration Setting -->
+  <!-- 1 for registration allowed, 0 for not -->
+  <REG>1</REG>
+</CharConfig>

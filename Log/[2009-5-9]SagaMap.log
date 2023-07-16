@@ -1,0 +1,88 @@
+2009-5-9 0:01:03|[Error]Deadlock detected
+2009-5-9 0:01:03|[Error]Automatically unlocking....
+2009-5-9 0:01:04|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 0:03:10|[Error]Exception while Actor:3is trying to cast:NormanShortSwordAttack
+2009-5-9 0:03:10|[Error]集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.KeyCollection.Enumerator.MoveNext()
+   在 SagaMap.Skills.SkillHandler.SkillAttack(Actor& sActor, Actor& dActor, UInt32 damage, SkillArgs& args) 位置 E:\Saga\SagaMap\Skills\SkillAttack.cs:行号 109
+   在 SagaMap.Skills.SkillHandler.PhysicalAttack(Actor& sActor, Actor& dActor, UInt32 damage, AttackElements element, SkillArgs& args) 位置 E:\Saga\SagaMap\Skills\SkillAttack.cs:行号 62
+   在 SagaMap.Skills.SkillTypes.NormalAttack.Proc(Actor& sActor, Actor& dActor, SkillArgs& args) 位置 E:\Saga\SagaMap\Skills\SkillTypes\Global\NormalAttack.cs:行号 51
+   在 SagaMap.Skills.SkillHandler.CastSkill(Actor& sActor, Actor& dActor, SkillArgs& args) 位置 E:\Saga\SagaMap\Skills\SkillHandler.cs:行号 73
+2009-5-9 0:03:45|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnLeaveNPC(LeaveNPC p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.NPC.cs:行号 139
+   在 SagaMap.Packets.Client.LeaveNPC.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\LeaveNPC.cs:行号 25
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 0:03:45|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.MapClient.OnLogout(GwLogout p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Login.cs:行号 127
+   在 SagaMap.Packets.Client.GwLogout.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\GwLogout.cs:行号 35
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 0:06:13|[Error]Deadlock detected
+2009-5-9 0:06:13|[Error]Automatically unlocking....
+2009-5-9 0:08:21|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 0:08:24|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 104
+2009-5-9 0:08:24|[Error]   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.CallBack(Object o) 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 104
+2009-5-9 0:08:27|[Error]值不能为空。
+参数名: key
+   在 System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   在 System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.Tasks.MobAI.Pause() 位置 E:\Saga\SagaMap\Tasks\MobTasks\MobAI.cs:行号 188
+2009-5-9 0:09:04|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaMap.MapClient.OnLogout(GwLogout p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Login.cs:行号 127
+   在 SagaMap.Packets.Client.GwLogout.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\GwLogout.cs:行号 35
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 0:11:03|[Error]Deadlock detected
+2009-5-9 0:11:03|[Error]Automatically unlocking....
+2009-5-9 0:13:11|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 0:27:16|[Error]未将对象引用设置到对象的实例。
+   在 SagaMap.MapClient.OnNPCDropList(NPCDropList p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 309
+   在 SagaMap.Packets.Client.NPCDropList.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\6 - NPC and Battle\NPCDropList.cs:行号 36
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 12:19:08|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaMap.MapClient.OnUseDye(GetUseDye p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 437
+   在 SagaMap.Packets.Client.GetUseDye.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\GetUseDye.cs:行号 39
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 12:19:12|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaMap.MapClient.OnUseDye(GetUseDye p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 437
+   在 SagaMap.Packets.Client.GetUseDye.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\GetUseDye.cs:行号 39
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+2009-5-9 12:19:15|[Error]索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 SagaMap.MapClient.OnUseDye(GetUseDye p) 位置 E:\Saga\SagaMap\Network\Client\MapClient.Items.cs:行号 437
+   在 SagaMap.Packets.Client.GetUseDye.Parse(Client client) 位置 E:\Saga\SagaMap\Packets\Client\5 - Items\GetUseDye.cs:行号 39
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)
+5/9/2009 8:12:01 PM|[Error]索引超出了数组界限。
+   在 SagaMap.HeightMap.GetZ(Single x, Single y, Single& z) 位置 E:\Saga\SagaMap\HeightMap.cs:行号 139
+   在 SagaMap.Map.GetHeight(Single x, Single y) 位置 E:\Saga\SagaMap\Map.cs:行号 105
+   在 SagaMap.Manager.ScriptManager.GetRandomPos(Map map, Single x, Single y, Single range) 位置 E:\Saga\SagaMap\Manager\ScriptManager.cs:行号 355
+   在 SagaMap.Manager.ScriptManager.AddSpawn(XmlNode spawn) 位置 E:\Saga\SagaMap\Manager\ScriptManager.cs:行号 289

@@ -1,0 +1,83 @@
+2008-11-20 11:30:17|[Error]Failed... Trying again in 5sec
+2008-11-20 11:30:17|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 11:30:23|[Error]Failed... Trying again in 5sec
+2008-11-20 11:30:23|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 12:33:01|[Error]Failed... Trying again in 5sec
+2008-11-20 12:33:01|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 12:34:45|[Error]Failed... Trying again in 5sec
+2008-11-20 12:34:45|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 12:38:07|[Error]Failed... Trying again in 5sec
+2008-11-20 12:38:07|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 12:40:45|[Error]Failed... Trying again in 5sec
+2008-11-20 12:40:45|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 12:42:44|[Error]Failed... Trying again in 5sec
+2008-11-20 12:42:44|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 12:44:09|[Error]Failed... Trying again in 5sec
+2008-11-20 12:44:09|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 19:20:38|Warning:Invalid Client Version CRC!Kicking.... 
+         Key:ED90AA25AE906FB36308C8523A4737A7E7B1FC6F
+2008-11-20 19:21:30|Warning:Invalid Client Version CRC!Kicking.... 
+         Key:ED90AA25AE906FB36308C8523A4737A7E7B1FC6F
+2008-11-20 19:23:37|Warning:Invalid Client Version CRC!Kicking.... 
+         Key:ED90AA25AE906FB36308C8523A4737A7E7B1FC6F
+2008-11-20 19:24:16|[Error]Failed... Trying again in 5sec
+2008-11-20 19:24:16|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 19:24:21|[Error]Failed... Trying again in 5sec
+2008-11-20 19:24:21|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 19:24:27|[Error]Failed... Trying again in 5sec
+2008-11-20 19:24:27|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 19:24:44|[Error]Failed... Trying again in 5sec
+2008-11-20 19:24:44|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 19:25:16|[Error]Failed... Trying again in 5sec
+2008-11-20 19:25:16|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 117.88.11.80:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaGateway.LoginSession.Connect()
+2008-11-20 19:29:27|Warning:Invalid Client Version CRC!Kicking.... 
+         Key:ED90AA25AE906FB36308C8523A4737A7E7B1FC6F
+2008-11-20 19:34:19|Warning:Invalid Client Version CRC!Kicking.... 
+         Key:ED90AA25AE906FB36308C8523A4737A7E7B1FC6F
+2008-11-20 19:37:56|Warning:Invalid Client Version CRC!Kicking.... 
+         Key:ED90AA25AE906FB36308C8523A4737A7E7B1FC6F
+2008-11-20 22:00:15|[Error]给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 SagaGateway.LoginSession.OnSendUniversal(SendUniversal p)
+   在 SagaGateway.Packets.Login.Get.SendUniversal.Parse(Client client)
+   在 SagaLib.NetIO.ReceiveData(IAsyncResult ar)

@@ -1,0 +1,35 @@
+2009-5-16 12:21:48|[Error]Failed... Trying again in 5sec
+2009-5-16 12:21:48|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaGateway.LoginSession.Connect()
+2009-5-16 12:21:54|[Error]Failed... Trying again in 5sec
+2009-5-16 12:21:54|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaGateway.LoginSession.Connect()
+2009-5-16 12:22:00|[Error]Failed... Trying again in 5sec
+2009-5-16 12:22:00|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaGateway.LoginSession.Connect()
+2009-5-16 22:59:51|[Error]Failed... Trying again in 5sec
+2009-5-16 22:59:54|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaGateway.LoginSession.Connect()
+2009-5-16 23:00:00|[Error]Failed... Trying again in 5sec
+2009-5-16 23:00:00|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaGateway.LoginSession.Connect()
+2009-5-16 23:00:06|[Error]Failed... Trying again in 5sec
+2009-5-16 23:00:06|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaGateway.LoginSession.Connect()
+2009-5-16 23:00:12|[Error]Failed... Trying again in 5sec
+2009-5-16 23:00:12|[Error]System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at SagaGateway.LoginSession.Connect()

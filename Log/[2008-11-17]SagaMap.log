@@ -1,0 +1,12 @@
+11/17/2008 12:17:10 AM|[Error]Failed.. Trying again in 10sec
+11/17/2008 12:17:21 AM|[Error]Failed.. Trying again in 10sec
+11/17/2008 12:17:32 AM|[Error]Failed.. Trying again in 10sec
+11/17/2008 12:17:43 AM|[Error]Failed.. Trying again in 10sec
+11/17/2008 12:17:54 AM|[Error]Failed.. Trying again in 10sec
+11/17/2008 12:18:05 AM|[Error]Failed.. Trying again in 10sec
+11/17/2008 12:18:16 AM|[Error]Failed.. Trying again in 10sec
+11/17/2008 12:37:14 AM|[Error]Failed... Trying again in 5sec
+11/17/2008 12:37:14 AM|[Error]System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:6000
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 SagaMap.LoginSession.Connect(Socket sock, String host, Int32 port) 位置 E:\Saga\SagaMap\Network\LoginServer\LoginSession.cs:行号 50

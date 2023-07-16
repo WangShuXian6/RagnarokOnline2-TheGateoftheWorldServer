@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MapConfig>
+  <!-- 100 for 100% -->
+  <EXPRate>10000</EXPRate>
+  <DropRate>10000</DropRate>
+  <Motd>
+    欢迎进入 ELFKISS仙境传说2（轻BT服） QQ群号：73574769 请注意群内IP更改通知！
+  </Motd>
+  <LogGMCommands>1</LogGMCommands>
+  <AllowGMTrade>1</AllowGMTrade>
+</MapConfig>

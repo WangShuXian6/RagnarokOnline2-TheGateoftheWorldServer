@@ -1,0 +1,1202 @@
+[Tue Feb 12 09:42:44 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Feb 12 09:42:44 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Feb 12 09:42:44 2008] [notice] Parent: Created child process 3788
+[Tue Feb 12 09:42:44 2008] [notice] Child 3788: Child process is running
+[Tue Feb 12 09:42:44 2008] [notice] Child 3788: Acquired the start mutex.
+[Tue Feb 12 09:42:44 2008] [notice] Child 3788: Starting 250 worker threads.
+[Tue Feb 12 10:13:53 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Feb 12 10:13:53 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Feb 12 10:13:53 2008] [notice] Parent: Created child process 5336
+[Tue Feb 12 10:13:54 2008] [notice] Child 5336: Child process is running
+[Tue Feb 12 10:13:54 2008] [notice] Child 5336: Acquired the start mutex.
+[Tue Feb 12 10:13:54 2008] [notice] Child 5336: Starting 250 worker threads.
+[Sun Feb 17 15:11:30 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Feb 17 15:11:31 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Feb 17 15:11:31 2008] [notice] Parent: Created child process 2608
+[Sun Feb 17 15:11:31 2008] [notice] Child 2608: Child process is running
+[Sun Feb 17 15:11:31 2008] [notice] Child 2608: Acquired the start mutex.
+[Sun Feb 17 15:11:31 2008] [notice] Child 2608: Starting 250 worker threads.
+[Sun Feb 17 15:11:41 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_chart.jpg, referer: http://localhost/_content/main2_1.htm
+[Sun Feb 17 15:13:29 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_chart.jpg, referer: http://localhost/_content/main2_1.htm
+[Sun Feb 17 15:13:35 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_chart.jpg, referer: http://localhost/_content/main2_1.htm
+[Sun Feb 17 15:14:03 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs06.jpg, referer: http://localhost/_content/main3_6.htm
+[Sun Feb 17 15:14:05 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs05.jpg, referer: http://localhost/_content/main3_5.htm
+[Sun Feb 17 15:14:06 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:14:06 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://localhost/_content/main3_3.htm
+[Sun Feb 17 15:14:09 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://localhost/_content/main3_3.htm
+[Sun Feb 17 15:14:10 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:14:13 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://localhost/_content/main3_3.htm
+[Sun Feb 17 15:14:15 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:14:15 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://localhost/_content/main3_3.htm
+[Sun Feb 17 15:14:16 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:14:17 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs05.jpg, referer: http://localhost/_content/main3_5.htm
+[Sun Feb 17 15:14:17 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs06.jpg, referer: http://localhost/_content/main3_6.htm
+[Sun Feb 17 15:14:18 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs05.jpg, referer: http://localhost/_content/main3_5.htm
+[Sun Feb 17 15:14:19 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:14:19 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://localhost/_content/main3_3.htm
+[Sun Feb 17 15:18:25 2008] [error] [client 127.0.0.1] File does not exist: W:/www/skins, referer: http://localhost/
+[Sun Feb 17 15:18:25 2008] [error] [client 127.0.0.1] File does not exist: W:/www/skins, referer: http://localhost/
+[Sun Feb 17 15:18:25 2008] [error] [client 127.0.0.1] File does not exist: W:/www/skins, referer: http://localhost/
+[Sun Feb 17 15:18:26 2008] [error] [client 127.0.0.1] File does not exist: W:/www/skins, referer: http://localhost/
+[Sun Feb 17 15:18:26 2008] [error] [client 127.0.0.1] File does not exist: W:/www/skins, referer: http://localhost/
+[Sun Feb 17 15:18:26 2008] [error] [client 127.0.0.1] File does not exist: W:/www/skins, referer: http://localhost/
+[Sun Feb 17 15:30:51 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://localhost/_content/main3_3.htm
+[Sun Feb 17 15:30:53 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:30:53 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs05.jpg, referer: http://localhost/_content/main3_5.htm
+[Sun Feb 17 15:30:54 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs06.jpg, referer: http://localhost/_content/main3_6.htm
+[Sun Feb 17 15:50:45 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://localhost/_content/main3_3.htm
+[Sun Feb 17 15:50:50 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:50:52 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://localhost/_content/main3_4.htm
+[Sun Feb 17 15:50:52 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs05.jpg, referer: http://localhost/_content/main3_5.htm
+[Sun Feb 17 15:50:53 2008] [error] [client 127.0.0.1] File does not exist: W:/www/_content/images/a_bs06.jpg, referer: http://localhost/_content/main3_6.htm
+[Sun Feb 17 16:01:12 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 16:01:23 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 17:04:23 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 17 17:04:23 2008] [notice] Child 2608: Exit event signaled. Child process is ending.
+[Sun Feb 17 17:41:46 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Feb 17 17:41:46 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Feb 17 17:41:46 2008] [notice] Parent: Created child process 6080
+[Sun Feb 17 17:41:46 2008] [notice] Child 6080: Child process is running
+[Sun Feb 17 17:41:46 2008] [notice] Child 6080: Acquired the start mutex.
+[Sun Feb 17 17:41:46 2008] [notice] Child 6080: Starting 250 worker threads.
+[Sun Feb 17 19:01:25 2008] [error] [client 219.236.48.128] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 19:01:34 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sun Feb 17 19:02:13 2008] [error] [client 219.236.48.128] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://wjtt2.eicp.net/_content/main3_3.htm
+[Sun Feb 17 19:02:21 2008] [error] [client 219.236.48.128] File does not exist: W:/www/_content/images/a_bs04.jpg, referer: http://wjtt2.eicp.net/_content/main3_4.htm
+[Sun Feb 17 19:07:15 2008] [error] [client 60.17.203.20] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 19:08:29 2008] [error] [client 60.17.203.20] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 19:13:39 2008] [error] [client 219.134.66.79] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 19:24:54 2008] [error] [client 61.225.55.30] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 19:25:10 2008] [error] [client 61.87.212.102] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 19:33:13 2008] [error] [client 222.64.225.222] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://wjtt2.eicp.net/_content/main3_3.htm
+[Sun Feb 17 19:48:21 2008] [error] [client 123.191.108.210] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 20:32:01 2008] [error] [client 222.67.151.5] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 20:32:10 2008] [error] [client 222.67.151.5] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 21:18:09 2008] [error] [client 117.11.91.87] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 21:49:29 2008] [error] [client 117.25.27.79] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 21:49:54 2008] [error] [client 117.25.27.79] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 21:49:57 2008] [error] [client 117.25.27.79] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:03:57 2008] [error] [client 119.40.196.165] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:04:39 2008] [error] [client 119.40.196.165] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:04:39 2008] [error] [client 119.40.196.165] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:04:43 2008] [error] [client 119.40.196.165] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:05:16 2008] [error] [client 121.33.149.43] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:06:12 2008] [error] [client 121.33.149.43] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:07:58 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sun Feb 17 22:07:58 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sun Feb 17 22:08:36 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sun Feb 17 22:08:36 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sun Feb 17 22:08:46 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sun Feb 17 22:13:11 2008] [error] [client 125.93.249.251] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:29:06 2008] [error] [client 58.38.3.84] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:30:50 2008] [error] [client 58.38.3.84] File does not exist: W:/www/_content/images/a_chart.jpg, referer: http://wjtt2.eicp.net/_content/main2_1.htm
+[Sun Feb 17 22:45:36 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Feb 17 22:45:36 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Feb 17 22:45:36 2008] [notice] Parent: Created child process 1872
+[Sun Feb 17 22:45:36 2008] [notice] Child 1872: Child process is running
+[Sun Feb 17 22:45:36 2008] [notice] Child 1872: Acquired the start mutex.
+[Sun Feb 17 22:45:36 2008] [notice] Child 1872: Starting 250 worker threads.
+[Sun Feb 17 22:50:07 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:50:16 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:50:22 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:51:56 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:52:15 2008] [error] [client 222.91.182.201] File does not exist: W:/www/_content/images/a_chart.jpg, referer: http://wjtt2.eicp.net/_content/main2_1.htm
+[Sun Feb 17 22:52:16 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:52:34 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 22:52:49 2008] [error] [client 222.91.182.201] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 23:00:53 2008] [error] [client 222.211.115.14] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 23:01:52 2008] [error] [client 60.214.146.18] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 23:04:18 2008] [error] [client 116.25.198.142] File does not exist: W:/www/favicon.ico
+[Sun Feb 17 23:51:23 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Feb 17 23:51:23 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Feb 17 23:51:23 2008] [notice] Parent: Created child process 2212
+[Sun Feb 17 23:51:24 2008] [notice] Child 2212: Child process is running
+[Sun Feb 17 23:51:24 2008] [notice] Child 2212: Acquired the start mutex.
+[Sun Feb 17 23:51:24 2008] [notice] Child 2212: Starting 250 worker threads.
+[Sun Feb 17 23:56:57 2008] [error] [client 220.134.92.206] File does not exist: W:/www/_content/images/a_bs03.jpg, referer: http://wjtt2.eicp.net/_content/main3_3.htm
+[Mon Feb 18 00:02:43 2008] [error] [client 125.45.200.45] File does not exist: W:/www/\xe4\xb8\xad\xe5\x9b\xbdL2J\xe8\x81\x94\xe7\x9b\x9f \xe6\x9a\x97\xe7\xbf\xbc\xe5\xa4\xa9\xe4\xbd\xbf\xe6\x96\xb0\xe7\xab\xa0\xe5\xae\x98\xe6\x96\xb9\xe7\xae\x80\xe4\xbb\x8b_files, referer: http://wjtt2.eicp.net/
+[Mon Feb 18 00:02:44 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Mon Feb 18 00:33:51 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Mon Feb 18 00:33:51 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Mon Feb 18 00:33:51 2008] [notice] Parent: Created child process 1980
+[Mon Feb 18 00:33:52 2008] [notice] Child 1980: Child process is running
+[Mon Feb 18 00:33:52 2008] [notice] Child 1980: Acquired the start mutex.
+[Mon Feb 18 00:33:52 2008] [notice] Child 1980: Starting 250 worker threads.
+[Mon Feb 18 00:36:03 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Mon Feb 18 00:36:03 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Mon Feb 18 00:36:03 2008] [notice] Parent: Created child process 2152
+[Mon Feb 18 00:36:03 2008] [notice] Child 2152: Child process is running
+[Mon Feb 18 00:36:03 2008] [notice] Child 2152: Acquired the start mutex.
+[Mon Feb 18 00:36:03 2008] [notice] Child 2152: Starting 250 worker threads.
+[Mon Feb 18 00:48:29 2008] [error] [client 220.164.222.62] File does not exist: W:/www/favicon.ico
+[Mon Feb 18 00:48:29 2008] [error] [client 220.164.222.62] File does not exist: W:/www/favicon.ico
+[Mon Feb 18 00:48:46 2008] [error] [client 220.164.222.62] File does not exist: W:/www/favicon.ico
+[Mon Feb 18 00:48:51 2008] [error] [client 220.164.222.62] File does not exist: W:/www/favicon.ico
+[Mon Feb 18 00:51:59 2008] [error] [client 58.18.55.50] File does not exist: W:/www/favicon.ico
+[Mon Feb 18 01:09:45 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Mon Feb 18 01:09:45 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Mon Feb 18 01:09:45 2008] [notice] Parent: Created child process 2300
+[Mon Feb 18 01:09:45 2008] [notice] Child 2300: Child process is running
+[Mon Feb 18 01:09:45 2008] [notice] Child 2300: Acquired the start mutex.
+[Mon Feb 18 01:09:45 2008] [notice] Child 2300: Starting 250 worker threads.
+[Mon Feb 18 01:43:22 2008] [error] [client 76.26.192.116] Invalid method in request \xfe\x909\x98qV5}\x15\xa4l\bD\xabw9T\xc3rS\xd7|\xd9\x1f\x89\xa9\x93q|\xe1\x8d1\x16\xab\x9c{
+[Tue Feb 19 08:12:37 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Feb 19 08:12:37 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Feb 19 08:12:37 2008] [notice] Parent: Created child process 2020
+[Tue Feb 19 08:12:37 2008] [notice] Child 2020: Child process is running
+[Tue Feb 19 08:12:37 2008] [notice] Child 2020: Acquired the start mutex.
+[Tue Feb 19 08:12:37 2008] [notice] Child 2020: Starting 250 worker threads.
+[Tue Feb 19 09:25:48 2008] [error] [client 61.139.95.202] File does not exist: W:/www/favicon.ico
+[Tue Feb 19 09:25:53 2008] [error] [client 61.139.95.202] File does not exist: W:/www/favicon.ico
+[Tue Feb 19 09:26:28 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 19 09:26:28 2008] [notice] Child 2020: Exit event signaled. Child process is ending.
+[Tue Feb 19 09:26:29 2008] [notice] Child 2020: Released the start mutex
+[Sun Mar 02 00:02:11 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Mar 02 00:02:11 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Mar 02 00:02:11 2008] [notice] Parent: Created child process 2328
+[Sun Mar 02 00:02:11 2008] [notice] Child 2328: Child process is running
+[Sun Mar 02 00:02:11 2008] [notice] Child 2328: Acquired the start mutex.
+[Sun Mar 02 00:02:11 2008] [notice] Child 2328: Starting 250 worker threads.
+[Sun Mar 02 02:22:30 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 02 02:22:30 2008] [notice] Child 2328: Exit event signaled. Child process is ending.
+[Sun Mar 02 02:22:31 2008] [notice] Child 2328: Released the start mutex
+[Sun Mar 02 02:22:32 2008] [notice] Child 2328: Waiting for 250 worker threads to exit.
+[Sun Mar 02 08:57:41 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Mar 02 08:57:41 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Mar 02 08:57:41 2008] [notice] Parent: Created child process 2824
+[Sun Mar 02 08:57:41 2008] [notice] Child 2824: Child process is running
+[Sun Mar 02 08:57:41 2008] [notice] Child 2824: Acquired the start mutex.
+[Sun Mar 02 08:57:41 2008] [notice] Child 2824: Starting 250 worker threads.
+[Sun Mar 02 10:00:30 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:00:31 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:02:20 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:02:21 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:04:03 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:04:04 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:04:34 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:05:06 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:07:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:07:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:35:12 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:35:13 2008] [error] [client 127.0.0.1] File does not exist: W:/www/nProtect/GameGuard/RealServer/ggscan.npz
+[Sun Mar 02 10:54:23 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Mar 02 10:54:23 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Mar 02 10:54:23 2008] [notice] Parent: Created child process 5476
+[Sun Mar 02 10:54:23 2008] [notice] Child 5476: Child process is running
+[Sun Mar 02 10:54:23 2008] [notice] Child 5476: Acquired the start mutex.
+[Sun Mar 02 10:54:23 2008] [notice] Child 5476: Starting 250 worker threads.
+[Mon May 12 19:49:45 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Mon May 12 19:49:45 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Mon May 12 19:49:45 2008] [notice] Parent: Created child process 748
+[Mon May 12 19:49:45 2008] [notice] Child 748: Child process is running
+[Mon May 12 19:49:45 2008] [notice] Child 748: Acquired the start mutex.
+[Mon May 12 19:49:45 2008] [notice] Child 748: Starting 250 worker threads.
+[Tue May 13 00:02:14 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue May 13 00:02:14 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue May 13 00:02:14 2008] [notice] Parent: Created child process 3600
+[Tue May 13 00:02:15 2008] [notice] Child 3600: Child process is running
+[Tue May 13 00:02:15 2008] [notice] Child 3600: Acquired the start mutex.
+[Tue May 13 00:02:15 2008] [notice] Child 3600: Starting 250 worker threads.
+[Tue May 13 00:02:17 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue May 13 00:18:52 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue May 13 00:18:52 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue May 13 00:18:52 2008] [notice] Parent: Created child process 5360
+[Tue May 13 00:18:52 2008] [notice] Child 5360: Child process is running
+[Tue May 13 00:18:52 2008] [notice] Child 5360: Acquired the start mutex.
+[Tue May 13 00:18:52 2008] [notice] Child 5360: Starting 250 worker threads.
+[Tue May 13 00:57:32 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 13 00:57:32 2008] [notice] Child 5360: Exit event signaled. Child process is ending.
+[Tue May 13 00:57:33 2008] [notice] Child 5360: Released the start mutex
+[Tue May 13 00:57:34 2008] [notice] Child 5360: Waiting for 250 worker threads to exit.
+[Tue May 13 00:57:34 2008] [notice] Child 5360: All worker threads have exited.
+[Tue May 13 00:57:34 2008] [notice] Child 5360: Child process is exiting
+[Tue May 13 00:57:34 2008] [notice] Parent: Child process exited successfully.
+[Wed May 21 14:27:58 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed May 21 14:27:58 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed May 21 14:27:58 2008] [notice] Parent: Created child process 3288
+[Wed May 21 14:27:58 2008] [notice] Child 3288: Child process is running
+[Wed May 21 14:27:58 2008] [notice] Child 3288: Acquired the start mutex.
+[Wed May 21 14:27:58 2008] [notice] Child 3288: Starting 250 worker threads.
+[Wed May 21 14:29:17 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Wed May 21 14:30:43 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed May 21 14:30:43 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed May 21 14:30:43 2008] [notice] Parent: Created child process 444
+[Wed May 21 14:30:43 2008] [notice] Child 444: Child process is running
+[Wed May 21 14:30:43 2008] [notice] Child 444: Acquired the start mutex.
+[Wed May 21 14:30:43 2008] [notice] Child 444: Starting 250 worker threads.
+[Wed May 21 14:44:05 2008] [error] [client 127.0.0.1] File does not exist: W:/www/xldc_3.6.1.13_20080519.exe, referer: http://xlissue110.sandai.net
+[Wed May 21 14:44:05 2008] [error] [client 127.0.0.1] File does not exist: W:/www/xldc_3.6.1.13_20080519.exe, referer: http://xlissue110.sandai.net
+[Sat May 24 14:18:54 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 14:18:54 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 14:18:54 2008] [notice] Parent: Created child process 3172
+[Sat May 24 14:18:54 2008] [notice] Child 3172: Child process is running
+[Sat May 24 14:18:54 2008] [notice] Child 3172: Acquired the start mutex.
+[Sat May 24 14:18:54 2008] [notice] Child 3172: Starting 250 worker threads.
+[Sat May 24 14:58:23 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 14:58:23 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 14:58:23 2008] [notice] Parent: Created child process 4316
+[Sat May 24 14:58:23 2008] [notice] Child 4316: Child process is running
+[Sat May 24 14:58:23 2008] [notice] Child 4316: Acquired the start mutex.
+[Sat May 24 14:58:23 2008] [notice] Child 4316: Starting 250 worker threads.
+[Sat May 24 15:03:56 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 15:03:56 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 15:03:56 2008] [notice] Parent: Created child process 2272
+[Sat May 24 15:03:57 2008] [notice] Child 2272: Child process is running
+[Sat May 24 15:03:57 2008] [notice] Child 2272: Acquired the start mutex.
+[Sat May 24 15:03:57 2008] [notice] Child 2272: Starting 250 worker threads.
+[Sat May 24 15:39:40 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 15:39:40 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 15:39:40 2008] [notice] Parent: Created child process 4312
+[Sat May 24 15:39:41 2008] [notice] Child 4312: Child process is running
+[Sat May 24 15:39:41 2008] [notice] Child 4312: Acquired the start mutex.
+[Sat May 24 15:39:41 2008] [notice] Child 4312: Starting 250 worker threads.
+[Sat May 24 15:40:32 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 15:40:32 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 15:40:32 2008] [notice] Parent: Created child process 5604
+[Sat May 24 15:40:32 2008] [notice] Child 5604: Child process is running
+[Sat May 24 15:40:32 2008] [notice] Child 5604: Acquired the start mutex.
+[Sat May 24 15:40:32 2008] [notice] Child 5604: Starting 250 worker threads.
+[Sat May 24 15:56:25 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 15:56:25 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 15:56:25 2008] [notice] Parent: Created child process 3960
+[Sat May 24 15:56:26 2008] [notice] Child 3960: Child process is running
+[Sat May 24 15:56:26 2008] [notice] Child 3960: Acquired the start mutex.
+[Sat May 24 15:56:26 2008] [notice] Child 3960: Starting 250 worker threads.
+[Sat May 24 15:59:19 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 15:59:19 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 15:59:25 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 15:59:25 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 15:59:59 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 15:59:59 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 15:59:59 2008] [notice] Parent: Created child process 2952
+[Sat May 24 16:00:00 2008] [notice] Child 2952: Child process is running
+[Sat May 24 16:00:00 2008] [notice] Child 2952: Acquired the start mutex.
+[Sat May 24 16:00:00 2008] [notice] Child 2952: Starting 250 worker threads.
+[Sat May 24 16:00:02 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:00:02 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:00:06 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:00:06 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:09 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:09 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:10 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:12 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:12 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:34 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 16:01:34 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 16:01:34 2008] [notice] Parent: Created child process 280
+[Sat May 24 16:01:34 2008] [notice] Child 280: Child process is running
+[Sat May 24 16:01:34 2008] [notice] Child 280: Acquired the start mutex.
+[Sat May 24 16:01:34 2008] [notice] Child 280: Starting 250 worker threads.
+[Sat May 24 16:01:36 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:36 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:01:54 2008] [error] [client 127.0.0.1] File does not exist: W:/www/function.mysql-pconnect, referer: http://localhost/
+[Sat May 24 16:03:46 2008] [error] [client 127.0.0.1] PHP Parse error:  parse error, unexpected '@' in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:04:10 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:04:10 2008] [error] [client 127.0.0.1] PHP Fatal error:  Access denied for user 'sagalogin'@'localhost' (using password: YES) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:04:39 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Unknown MySQL server host 'sagalogin' (11001) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:04:39 2008] [error] [client 127.0.0.1] PHP Fatal error:  Unknown MySQL server host 'sagalogin' (11001) in W:\\www\\conf\\conf.php on line 9
+[Sat May 24 16:07:53 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 16:07:53 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 16:07:53 2008] [notice] Parent: Created child process 5092
+[Sat May 24 16:07:53 2008] [notice] Child 5092: Child process is running
+[Sat May 24 16:07:53 2008] [notice] Child 5092: Acquired the start mutex.
+[Sat May 24 16:07:53 2008] [notice] Child 5092: Starting 250 worker threads.
+[Sat May 24 16:24:16 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 16:24:16 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 16:24:16 2008] [notice] Parent: Created child process 3164
+[Sat May 24 16:24:16 2008] [notice] Child 3164: Child process is running
+[Sat May 24 16:24:16 2008] [notice] Child 3164: Acquired the start mutex.
+[Sat May 24 16:24:16 2008] [notice] Child 3164: Starting 250 worker threads.
+[Sat May 24 21:18:35 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 24 21:18:35 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 24 21:18:35 2008] [notice] Parent: Created child process 648
+[Sat May 24 21:18:35 2008] [notice] Child 648: Child process is running
+[Sat May 24 21:18:35 2008] [notice] Child 648: Acquired the start mutex.
+[Sat May 24 21:18:35 2008] [notice] Child 648: Starting 250 worker threads.
+[Tue Oct 21 10:25:12 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Oct 21 10:25:12 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Oct 21 10:25:12 2008] [notice] Parent: Created child process 3672
+[Tue Oct 21 10:25:12 2008] [notice] Child 3672: Child process is running
+[Tue Oct 21 10:25:12 2008] [notice] Child 3672: Acquired the start mutex.
+[Tue Oct 21 10:25:12 2008] [notice] Child 3672: Starting 250 worker threads.
+[Tue Oct 21 10:25:13 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Oct 21 10:26:07 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Oct 21 10:26:07 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Oct 21 10:26:07 2008] [notice] Parent: Created child process 3360
+[Tue Oct 21 10:26:07 2008] [notice] Child 3360: Child process is running
+[Tue Oct 21 10:26:07 2008] [notice] Child 3360: Acquired the start mutex.
+[Tue Oct 21 10:26:07 2008] [notice] Child 3360: Starting 250 worker threads.
+[Tue Oct 21 10:26:08 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Oct 21 10:26:24 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Oct 21 10:26:45 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Oct 21 10:27:08 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Oct 21 10:27:17 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Oct 21 10:28:08 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&goto=db_structure.php&table=char
+[Tue Oct 21 10:28:23 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_alter.php
+[Tue Oct 21 10:28:37 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 10:28:49 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_alter.php
+[Tue Oct 21 10:28:57 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_alter.php
+[Tue Oct 21 10:29:02 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_addfield.php
+[Tue Oct 21 10:29:03 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_addfield.php
+[Tue Oct 21 10:29:03 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_addfield.php
+[Tue Oct 21 10:29:05 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 10:29:13 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 10:29:13 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 10:29:14 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Tue Oct 21 10:29:24 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 10:29:26 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 10:29:26 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 10:29:31 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 10:29:31 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 10:29:31 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 10:29:31 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 10:29:31 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_sql.php?db=saga&table=char&token=a6cc6283f851dbb9319f3df57ab60350&goto=tbl_structure.php&back=tbl_structure.php
+[Tue Oct 21 11:04:59 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:05:06 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:05:06 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:06:14 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:06:14 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:06:14 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:06:14 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:06:14 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:06:14 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=char
+[Tue Oct 21 11:09:21 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=gbk_chinese_ci
+[Tue Oct 21 11:10:37 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=a6cc6283f851dbb9319f3df57ab60350&table=storage
+[Tue Oct 21 11:24:20 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Oct 21 11:24:20 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Oct 21 11:24:20 2008] [notice] Parent: Created child process 3424
+[Tue Oct 21 11:24:20 2008] [notice] Child 3424: Child process is running
+[Tue Oct 21 11:24:20 2008] [notice] Child 3424: Acquired the start mutex.
+[Tue Oct 21 11:24:20 2008] [notice] Child 3424: Starting 250 worker threads.
+[Fri Oct 31 23:15:24 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Oct 31 23:15:24 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Oct 31 23:15:24 2008] [notice] Parent: Created child process 3420
+[Fri Oct 31 23:15:24 2008] [notice] Child 3420: Child process is running
+[Fri Oct 31 23:15:24 2008] [notice] Child 3420: Acquired the start mutex.
+[Fri Oct 31 23:15:24 2008] [notice] Child 3420: Starting 250 worker threads.
+[Fri Oct 31 23:15:29 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Fri Oct 31 23:16:24 2008] [notice] Parent: child process exited with status 1 -- Restarting.
+[Fri Oct 31 23:16:24 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Oct 31 23:16:24 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Oct 31 23:16:24 2008] [notice] Parent: Created child process 3320
+[Fri Oct 31 23:16:24 2008] [notice] Child 3320: Child process is running
+[Fri Oct 31 23:16:24 2008] [notice] Child 3320: Acquired the start mutex.
+[Fri Oct 31 23:16:24 2008] [notice] Child 3320: Starting 250 worker threads.
+[Sat Nov 01 00:14:43 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 01 00:14:43 2008] [notice] Child 3320: Exit event signaled. Child process is ending.
+[Sat Nov 01 00:14:44 2008] [notice] Child 3320: Released the start mutex
+[Sat Nov 01 00:14:45 2008] [notice] Child 3320: Waiting for 250 worker threads to exit.
+[Sat Nov 01 00:14:45 2008] [notice] Child 3320: All worker threads have exited.
+[Sat Nov 01 00:14:45 2008] [notice] Child 3320: Child process is exiting
+[Sat Nov 01 00:14:45 2008] [notice] Parent: Child process exited successfully.
+[Thu Nov 06 23:12:46 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu Nov 06 23:12:46 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Thu Nov 06 23:12:46 2008] [notice] Parent: Created child process 3496
+[Thu Nov 06 23:12:47 2008] [notice] Child 3496: Child process is running
+[Thu Nov 06 23:12:47 2008] [notice] Child 3496: Acquired the start mutex.
+[Thu Nov 06 23:12:47 2008] [notice] Child 3496: Starting 250 worker threads.
+[Fri Nov 14 20:08:46 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 20:08:46 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 20:08:46 2008] [notice] Parent: Created child process 3684
+[Fri Nov 14 20:08:47 2008] [notice] Child 3684: Child process is running
+[Fri Nov 14 20:08:47 2008] [notice] Child 3684: Acquired the start mutex.
+[Fri Nov 14 20:08:47 2008] [notice] Child 3684: Starting 250 worker threads.
+[Fri Nov 14 20:08:53 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Fri Nov 14 20:38:58 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 20:38:58 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 20:38:58 2008] [notice] Parent: Created child process 6052
+[Fri Nov 14 20:38:58 2008] [notice] Child 6052: Child process is running
+[Fri Nov 14 20:38:58 2008] [notice] Child 6052: Acquired the start mutex.
+[Fri Nov 14 20:38:58 2008] [notice] Child 6052: Starting 250 worker threads.
+[Fri Nov 14 20:48:20 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 20:48:20 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 20:48:20 2008] [notice] Parent: Created child process 3520
+[Fri Nov 14 20:48:20 2008] [notice] Child 3520: Child process is running
+[Fri Nov 14 20:48:20 2008] [notice] Child 3520: Acquired the start mutex.
+[Fri Nov 14 20:48:20 2008] [notice] Child 3520: Starting 250 worker threads.
+[Fri Nov 14 22:28:33 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 22:28:33 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 22:28:33 2008] [notice] Parent: Created child process 1868
+[Fri Nov 14 22:28:33 2008] [notice] Child 1868: Child process is running
+[Fri Nov 14 22:28:33 2008] [notice] Child 1868: Acquired the start mutex.
+[Fri Nov 14 22:28:33 2008] [notice] Child 1868: Starting 250 worker threads.
+[Fri Nov 14 22:31:22 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 22:31:22 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 22:31:22 2008] [notice] Parent: Created child process 1692
+[Fri Nov 14 22:31:22 2008] [notice] Child 1692: Child process is running
+[Fri Nov 14 22:31:22 2008] [notice] Child 1692: Acquired the start mutex.
+[Fri Nov 14 22:31:22 2008] [notice] Child 1692: Starting 250 worker threads.
+[Fri Nov 14 22:32:49 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Fri Nov 14 22:35:21 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 22:35:21 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 22:35:21 2008] [notice] Parent: Created child process 6016
+[Fri Nov 14 22:35:21 2008] [notice] Child 6016: Child process is running
+[Fri Nov 14 22:35:21 2008] [notice] Child 6016: Acquired the start mutex.
+[Fri Nov 14 22:35:21 2008] [notice] Child 6016: Starting 250 worker threads.
+[Fri Nov 14 23:17:04 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 23:17:04 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 23:17:04 2008] [notice] Parent: Created child process 3496
+[Fri Nov 14 23:17:04 2008] [notice] Child 3496: Child process is running
+[Fri Nov 14 23:17:04 2008] [notice] Child 3496: Acquired the start mutex.
+[Fri Nov 14 23:17:04 2008] [notice] Child 3496: Starting 250 worker threads.
+[Fri Nov 14 23:20:00 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=9abb81fe44e6bfd0e093a30fbed3fd6c&table=char
+[Fri Nov 14 23:20:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=9abb81fe44e6bfd0e093a30fbed3fd6c&table=char
+[Fri Nov 14 23:20:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=9abb81fe44e6bfd0e093a30fbed3fd6c&table=char
+[Fri Nov 14 23:20:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=9abb81fe44e6bfd0e093a30fbed3fd6c&table=char
+[Fri Nov 14 23:20:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=9abb81fe44e6bfd0e093a30fbed3fd6c&table=char
+[Fri Nov 14 23:20:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=9abb81fe44e6bfd0e093a30fbed3fd6c&table=char
+[Fri Nov 14 23:20:11 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=9abb81fe44e6bfd0e093a30fbed3fd6c&table=char
+[Fri Nov 14 23:20:34 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 23:20:34 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 23:20:34 2008] [notice] Parent: Created child process 4660
+[Fri Nov 14 23:20:34 2008] [notice] Child 4660: Child process is running
+[Fri Nov 14 23:20:34 2008] [notice] Child 4660: Acquired the start mutex.
+[Fri Nov 14 23:20:34 2008] [notice] Child 4660: Starting 250 worker threads.
+[Fri Nov 14 23:21:05 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=b24c14b0419cc261a366b48b341f70dd&table=char
+[Fri Nov 14 23:33:22 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 23:33:22 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 23:33:22 2008] [notice] Parent: Created child process 5364
+[Fri Nov 14 23:33:23 2008] [notice] Child 5364: Child process is running
+[Fri Nov 14 23:33:23 2008] [notice] Child 5364: Acquired the start mutex.
+[Fri Nov 14 23:33:23 2008] [notice] Child 5364: Starting 250 worker threads.
+[Fri Nov 14 23:35:18 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 14 23:35:18 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 14 23:35:18 2008] [notice] Parent: Created child process 4260
+[Fri Nov 14 23:35:18 2008] [notice] Child 4260: Child process is running
+[Fri Nov 14 23:35:18 2008] [notice] Child 4260: Acquired the start mutex.
+[Fri Nov 14 23:35:18 2008] [notice] Child 4260: Starting 250 worker threads.
+[Fri Nov 14 23:35:25 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Sat Nov 15 01:28:50 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 01:28:50 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 01:28:51 2008] [notice] Parent: Created child process 5844
+[Sat Nov 15 01:28:51 2008] [notice] Child 5844: Child process is running
+[Sat Nov 15 01:28:51 2008] [notice] Child 5844: Acquired the start mutex.
+[Sat Nov 15 01:28:51 2008] [notice] Child 5844: Starting 250 worker threads.
+[Sat Nov 15 03:26:32 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 03:26:32 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 03:26:32 2008] [notice] Parent: Created child process 3876
+[Sat Nov 15 03:26:32 2008] [notice] Child 3876: Child process is running
+[Sat Nov 15 03:26:32 2008] [notice] Child 3876: Acquired the start mutex.
+[Sat Nov 15 03:26:32 2008] [notice] Child 3876: Starting 250 worker threads.
+[Sat Nov 15 03:31:44 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 03:31:44 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 03:31:44 2008] [notice] Parent: Created child process 1236
+[Sat Nov 15 03:31:44 2008] [notice] Child 1236: Child process is running
+[Sat Nov 15 03:31:44 2008] [notice] Child 1236: Acquired the start mutex.
+[Sat Nov 15 03:31:44 2008] [notice] Child 1236: Starting 250 worker threads.
+[Sat Nov 15 03:33:58 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 03:33:58 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 03:33:58 2008] [notice] Parent: Created child process 5448
+[Sat Nov 15 03:33:58 2008] [notice] Child 5448: Child process is running
+[Sat Nov 15 03:33:58 2008] [notice] Child 5448: Acquired the start mutex.
+[Sat Nov 15 03:33:58 2008] [notice] Child 5448: Starting 250 worker threads.
+[Sat Nov 15 03:33:58 2008] [error] [client 218.94.133.210] Invalid method in request =
+[Sat Nov 15 03:58:21 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=test&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Sat Nov 15 12:37:15 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 12:37:15 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 12:37:15 2008] [notice] Parent: Created child process 2484
+[Sat Nov 15 12:37:15 2008] [notice] Child 2484: Child process is running
+[Sat Nov 15 12:37:15 2008] [notice] Child 2484: Acquired the start mutex.
+[Sat Nov 15 12:37:15 2008] [notice] Child 2484: Starting 250 worker threads.
+[Sat Nov 15 12:47:57 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sat Nov 15 14:41:29 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 14:41:29 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 14:41:29 2008] [notice] Parent: Created child process 3068
+[Sat Nov 15 14:41:29 2008] [notice] Child 3068: Child process is running
+[Sat Nov 15 14:41:29 2008] [notice] Child 3068: Acquired the start mutex.
+[Sat Nov 15 14:41:29 2008] [notice] Child 3068: Starting 250 worker threads.
+[Sat Nov 15 14:41:33 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Sat Nov 15 15:24:34 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 15:24:34 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 15:24:34 2008] [notice] Parent: Created child process 2800
+[Sat Nov 15 15:24:35 2008] [notice] Child 2800: Child process is running
+[Sat Nov 15 15:24:35 2008] [notice] Child 2800: Acquired the start mutex.
+[Sat Nov 15 15:24:35 2008] [notice] Child 2800: Starting 250 worker threads.
+[Sat Nov 15 16:08:18 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 16:08:18 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 16:08:18 2008] [notice] Parent: Created child process 3976
+[Sat Nov 15 16:08:18 2008] [notice] Child 3976: Child process is running
+[Sat Nov 15 16:08:18 2008] [notice] Child 3976: Acquired the start mutex.
+[Sat Nov 15 16:08:18 2008] [notice] Child 3976: Starting 250 worker threads.
+[Sat Nov 15 16:08:47 2008] [error] [client 117.88.11.108] File does not exist: W:/www/favicon.ico
+[Sat Nov 15 16:18:14 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Nov 15 16:18:14 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Nov 15 16:18:14 2008] [notice] Parent: Created child process 2560
+[Sat Nov 15 16:18:14 2008] [notice] Child 2560: Child process is running
+[Sat Nov 15 16:18:14 2008] [notice] Child 2560: Acquired the start mutex.
+[Sat Nov 15 16:18:14 2008] [notice] Child 2560: Starting 250 worker threads.
+[Sat Nov 15 16:57:43 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Sat Nov 15 18:48:17 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Sat Nov 15 19:12:27 2008] [error] [client 222.212.189.105] File does not exist: W:/www/favicon.ico
+[Sat Nov 15 23:25:45 2008] [error] [client 117.88.11.108] File does not exist: W:/www/favicon.ico
+[Mon Nov 17 00:38:00 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Mon Nov 17 00:38:00 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Mon Nov 17 00:38:00 2008] [notice] Parent: Created child process 6104
+[Mon Nov 17 00:38:00 2008] [notice] Child 6104: Child process is running
+[Mon Nov 17 00:38:00 2008] [notice] Child 6104: Acquired the start mutex.
+[Mon Nov 17 00:38:00 2008] [notice] Child 6104: Starting 250 worker threads.
+[Mon Nov 17 00:38:03 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Nov 18 18:12:21 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Nov 18 18:12:21 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Nov 18 18:12:21 2008] [notice] Parent: Created child process 504
+[Tue Nov 18 18:12:21 2008] [notice] Child 504: Child process is running
+[Tue Nov 18 18:12:21 2008] [notice] Child 504: Acquired the start mutex.
+[Tue Nov 18 18:12:21 2008] [notice] Child 504: Starting 250 worker threads.
+[Tue Nov 18 18:12:27 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Tue Nov 18 18:30:07 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Nov 18 18:30:07 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Nov 18 18:30:08 2008] [notice] Parent: Created child process 2436
+[Tue Nov 18 18:30:08 2008] [notice] Child 2436: Child process is running
+[Tue Nov 18 18:30:08 2008] [notice] Child 2436: Acquired the start mutex.
+[Tue Nov 18 18:30:08 2008] [notice] Child 2436: Starting 250 worker threads.
+[Tue Nov 18 18:33:58 2008] [error] [client 117.88.11.80] File does not exist: W:/www/favicon.ico
+[Tue Nov 18 19:01:22 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Nov 18 19:01:22 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Nov 18 19:01:23 2008] [notice] Parent: Created child process 3324
+[Tue Nov 18 19:01:23 2008] [notice] Child 3324: Child process is running
+[Tue Nov 18 19:01:23 2008] [notice] Child 3324: Acquired the start mutex.
+[Tue Nov 18 19:01:23 2008] [notice] Child 3324: Starting 250 worker threads.
+[Tue Nov 18 19:08:34 2008] [error] [client 222.93.170.223] File does not exist: W:/www/favicon.ico
+[Tue Nov 18 19:26:10 2008] [error] [client 61.190.85.122] File does not exist: W:/www/favicon.ico
+[Tue Nov 18 20:35:28 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Tue Nov 18 20:46:56 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Nov 18 20:46:56 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Nov 18 20:46:56 2008] [notice] Parent: Created child process 3988
+[Tue Nov 18 20:46:56 2008] [notice] Child 3988: Child process is running
+[Tue Nov 18 20:46:56 2008] [notice] Child 3988: Acquired the start mutex.
+[Tue Nov 18 20:46:56 2008] [notice] Child 3988: Starting 250 worker threads.
+[Tue Nov 18 23:04:42 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Nov 18 23:04:42 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Nov 18 23:04:42 2008] [notice] Parent: Created child process 1480
+[Tue Nov 18 23:04:42 2008] [notice] Child 1480: Child process is running
+[Tue Nov 18 23:04:42 2008] [notice] Child 1480: Acquired the start mutex.
+[Tue Nov 18 23:04:42 2008] [notice] Child 1480: Starting 250 worker threads.
+[Wed Nov 19 01:09:06 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 01:09:06 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 01:09:06 2008] [notice] Parent: Created child process 4388
+[Wed Nov 19 01:09:06 2008] [notice] Child 4388: Child process is running
+[Wed Nov 19 01:09:06 2008] [notice] Child 4388: Acquired the start mutex.
+[Wed Nov 19 01:09:06 2008] [notice] Child 4388: Starting 250 worker threads.
+[Wed Nov 19 01:16:06 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 01:16:06 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 01:16:06 2008] [notice] Parent: Created child process 4280
+[Wed Nov 19 01:16:06 2008] [notice] Child 4280: Child process is running
+[Wed Nov 19 01:16:06 2008] [notice] Child 4280: Acquired the start mutex.
+[Wed Nov 19 01:16:06 2008] [notice] Child 4280: Starting 250 worker threads.
+[Wed Nov 19 02:07:33 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 02:07:33 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 02:07:33 2008] [notice] Parent: Created child process 3564
+[Wed Nov 19 02:07:33 2008] [notice] Child 3564: Child process is running
+[Wed Nov 19 02:07:33 2008] [notice] Child 3564: Acquired the start mutex.
+[Wed Nov 19 02:07:33 2008] [notice] Child 3564: Starting 250 worker threads.
+[Wed Nov 19 02:07:53 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 02:07:53 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 02:07:53 2008] [notice] Parent: Created child process 3964
+[Wed Nov 19 02:07:53 2008] [notice] Child 3964: Child process is running
+[Wed Nov 19 02:07:53 2008] [notice] Child 3964: Acquired the start mutex.
+[Wed Nov 19 02:07:53 2008] [notice] Child 3964: Starting 250 worker threads.
+[Wed Nov 19 02:08:06 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 02:08:06 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 02:08:06 2008] [notice] Parent: Created child process 3536
+[Wed Nov 19 02:08:06 2008] [notice] Child 3536: Child process is running
+[Wed Nov 19 02:08:06 2008] [notice] Child 3536: Acquired the start mutex.
+[Wed Nov 19 02:08:06 2008] [notice] Child 3536: Starting 250 worker threads.
+[Wed Nov 19 05:12:22 2008] [error] [client 220.181.19.72] File does not exist: W:/www/robots.txt
+[Wed Nov 19 05:54:15 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 05:54:15 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 05:54:15 2008] [notice] Parent: Created child process 2264
+[Wed Nov 19 05:54:15 2008] [notice] Child 2264: Child process is running
+[Wed Nov 19 05:54:15 2008] [notice] Child 2264: Acquired the start mutex.
+[Wed Nov 19 05:54:15 2008] [notice] Child 2264: Starting 250 worker threads.
+[Wed Nov 19 05:54:42 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 05:54:42 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 05:54:42 2008] [notice] Parent: Created child process 5640
+[Wed Nov 19 05:54:42 2008] [notice] Child 5640: Child process is running
+[Wed Nov 19 05:54:42 2008] [notice] Child 5640: Acquired the start mutex.
+[Wed Nov 19 05:54:42 2008] [notice] Child 5640: Starting 250 worker threads.
+[Wed Nov 19 12:09:54 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 19 16:20:23 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 16:20:23 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 16:20:23 2008] [notice] Parent: Created child process 1320
+[Wed Nov 19 16:20:24 2008] [notice] Child 1320: Child process is running
+[Wed Nov 19 16:20:24 2008] [notice] Child 1320: Acquired the start mutex.
+[Wed Nov 19 16:20:24 2008] [notice] Child 1320: Starting 250 worker threads.
+[Wed Nov 19 16:29:52 2008] [error] [client 116.21.15.198] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 16:37:13 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 19 17:00:38 2008] [error] [client 120.84.183.37] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 17:00:46 2008] [error] [client 120.84.183.37] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 17:31:08 2008] [error] [client 120.84.183.37] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 17:44:30 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 19 18:03:19 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 18:03:19 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 18:03:19 2008] [notice] Parent: Created child process 4212
+[Wed Nov 19 18:03:19 2008] [notice] Child 4212: Child process is running
+[Wed Nov 19 18:03:19 2008] [notice] Child 4212: Acquired the start mutex.
+[Wed Nov 19 18:03:19 2008] [notice] Child 4212: Starting 250 worker threads.
+[Wed Nov 19 18:03:25 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 18:03:25 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 18:03:25 2008] [notice] Parent: Created child process 4452
+[Wed Nov 19 18:03:25 2008] [notice] Child 4452: Child process is running
+[Wed Nov 19 18:03:25 2008] [notice] Child 4452: Acquired the start mutex.
+[Wed Nov 19 18:03:25 2008] [notice] Child 4452: Starting 250 worker threads.
+[Wed Nov 19 18:11:29 2008] [error] [client 125.127.218.43] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 18:11:38 2008] [error] [client 125.127.218.43] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 18:51:42 2008] [warn] (OS 121)信号灯超时时间已到。  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 19 19:40:47 2008] [error] [client 218.202.4.135] File does not exist: W:/www/favicon.ico, referer: http://218.200.244.92/PullServlet?SPID=900505&ServiceID=03201015&MISC_U=http://wapgame.tom.com/nokia.jsp?dirid=&forlog=1&gtwy=218_202_4_135&forlog_url=homepage1&r=1
+[Wed Nov 19 20:53:35 2008] [error] [client 116.224.192.170] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 20:53:44 2008] [error] [client 116.224.192.170] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 20:53:49 2008] [error] [client 116.224.192.170] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 21:06:26 2008] [error] [client 124.77.24.220] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 21:12:25 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 21:12:25 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 21:12:26 2008] [notice] Parent: Created child process 3152
+[Wed Nov 19 21:12:26 2008] [notice] Child 3152: Child process is running
+[Wed Nov 19 21:12:26 2008] [notice] Child 3152: Acquired the start mutex.
+[Wed Nov 19 21:12:26 2008] [notice] Child 3152: Starting 250 worker threads.
+[Wed Nov 19 21:19:58 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 19 22:29:30 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed Nov 19 22:29:30 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Wed Nov 19 22:29:31 2008] [notice] Parent: Created child process 2860
+[Wed Nov 19 22:29:31 2008] [notice] Child 2860: Child process is running
+[Wed Nov 19 22:29:31 2008] [notice] Child 2860: Acquired the start mutex.
+[Wed Nov 19 22:29:31 2008] [notice] Child 2860: Starting 250 worker threads.
+[Wed Nov 19 23:56:18 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 23:58:49 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 23:59:03 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 23:59:06 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 23:59:09 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 23:59:14 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Wed Nov 19 23:59:15 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Thu Nov 20 00:00:12 2008] [error] [client 61.142.94.59] File does not exist: W:/www/favicon.ico
+[Thu Nov 20 00:13:41 2008] [error] [client 116.21.212.124] File does not exist: W:/www/favicon.ico
+[Thu Nov 20 11:30:02 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu Nov 20 11:30:02 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Thu Nov 20 11:30:02 2008] [notice] Parent: Created child process 3336
+[Thu Nov 20 11:30:02 2008] [notice] Child 3336: Child process is running
+[Thu Nov 20 11:30:02 2008] [notice] Child 3336: Acquired the start mutex.
+[Thu Nov 20 11:30:02 2008] [notice] Child 3336: Starting 250 worker threads.
+[Thu Nov 20 11:41:46 2008] [error] [client 117.88.11.80] File does not exist: W:/www/favicon.ico
+[Thu Nov 20 12:31:51 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu Nov 20 12:31:51 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Thu Nov 20 12:31:51 2008] [notice] Parent: Created child process 2568
+[Thu Nov 20 12:31:52 2008] [notice] Child 2568: Child process is running
+[Thu Nov 20 12:31:52 2008] [notice] Child 2568: Acquired the start mutex.
+[Thu Nov 20 12:31:52 2008] [notice] Child 2568: Starting 250 worker threads.
+[Thu Nov 20 12:32:09 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu Nov 20 12:32:09 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Thu Nov 20 12:32:09 2008] [notice] Parent: Created child process 3584
+[Thu Nov 20 12:32:09 2008] [notice] Child 3584: Child process is running
+[Thu Nov 20 12:32:09 2008] [notice] Child 3584: Acquired the start mutex.
+[Thu Nov 20 12:32:09 2008] [notice] Child 3584: Starting 250 worker threads.
+[Thu Nov 20 15:14:47 2008] [error] [client 125.88.20.30] File does not exist: W:/www/favicon.ico
+[Thu Nov 20 17:38:28 2008] [error] [client 61.172.246.17] File does not exist: W:/www/manager
+[Thu Nov 20 18:09:16 2008] [error] [client 125.88.20.30] File does not exist: W:/www/favicon.ico
+[Thu Nov 20 18:46:19 2008] [error] [client 127.0.0.1] File does not exist: W:/www/favicon.ico
+[Thu Nov 20 19:07:15 2008] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Thu Nov 20 19:24:03 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu Nov 20 19:24:03 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Thu Nov 20 19:24:04 2008] [notice] Parent: Created child process 4320
+[Thu Nov 20 19:24:04 2008] [notice] Child 4320: Child process is running
+[Thu Nov 20 19:24:04 2008] [notice] Child 4320: Acquired the start mutex.
+[Thu Nov 20 19:24:04 2008] [notice] Child 4320: Starting 250 worker threads.
+[Thu Nov 20 21:57:08 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Fri Nov 21 01:52:29 2008] [warn] (OS 64)指定的网络名不再可用。  : winnt_accept: Asynchronous AcceptEx failed.
+[Fri Nov 21 07:59:16 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 21 07:59:16 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 21 07:59:16 2008] [notice] Parent: Created child process 5784
+[Fri Nov 21 07:59:16 2008] [notice] Child 5784: Child process is running
+[Fri Nov 21 07:59:16 2008] [notice] Child 5784: Acquired the start mutex.
+[Fri Nov 21 07:59:16 2008] [notice] Child 5784: Starting 250 worker threads.
+[Fri Nov 21 08:03:18 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 21 08:03:18 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 21 08:03:18 2008] [notice] Parent: Created child process 5864
+[Fri Nov 21 08:03:18 2008] [notice] Child 5864: Child process is running
+[Fri Nov 21 08:03:18 2008] [notice] Child 5864: Acquired the start mutex.
+[Fri Nov 21 08:03:18 2008] [notice] Child 5864: Starting 250 worker threads.
+[Fri Nov 21 08:04:31 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 21 08:04:31 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 21 08:04:31 2008] [notice] Parent: Created child process 7036
+[Fri Nov 21 08:04:31 2008] [notice] Child 7036: Child process is running
+[Fri Nov 21 08:04:31 2008] [notice] Child 7036: Acquired the start mutex.
+[Fri Nov 21 08:04:31 2008] [notice] Child 7036: Starting 250 worker threads.
+[Fri Nov 21 08:10:17 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 21 08:10:17 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 21 08:10:17 2008] [notice] Parent: Created child process 6452
+[Fri Nov 21 08:10:18 2008] [notice] Child 6452: Child process is running
+[Fri Nov 21 08:10:18 2008] [notice] Child 6452: Acquired the start mutex.
+[Fri Nov 21 08:10:18 2008] [notice] Child 6452: Starting 250 worker threads.
+[Fri Nov 21 08:12:20 2008] [error] [client 219.139.184.140] File does not exist: W:/www/index.asp
+[Fri Nov 21 08:12:20 2008] [error] [client 219.139.184.140] File does not exist: W:/www/favicon.ico
+[Fri Nov 21 08:13:22 2008] [error] [client 117.88.11.80] File does not exist: W:/www/index.asp
+[Fri Nov 21 10:02:46 2008] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Nov 21 10:02:46 2008] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Nov 21 10:02:46 2008] [notice] Parent: Created child process 2960
+[Fri Nov 21 10:02:46 2008] [notice] Child 2960: Child process is running
+[Fri Nov 21 10:02:46 2008] [notice] Child 2960: Acquired the start mutex.
+[Fri Nov 21 10:02:46 2008] [notice] Child 2960: Starting 250 worker threads.
+[Fri May 08 03:55:24 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri May 08 03:55:24 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Fri May 08 03:55:24 2009] [notice] Parent: Created child process 1980
+[Fri May 08 03:55:24 2009] [notice] Child 1980: Child process is running
+[Fri May 08 03:55:25 2009] [notice] Child 1980: Acquired the start mutex.
+[Fri May 08 03:55:25 2009] [notice] Child 1980: Starting 250 worker threads.
+[Fri May 08 03:56:10 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Fri May 08 04:01:15 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri May 08 04:01:15 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Fri May 08 04:01:15 2009] [notice] Parent: Created child process 1644
+[Fri May 08 04:01:15 2009] [notice] Child 1644: Child process is running
+[Fri May 08 04:01:15 2009] [notice] Child 1644: Acquired the start mutex.
+[Fri May 08 04:01:15 2009] [notice] Child 1644: Starting 250 worker threads.
+[Fri May 08 05:12:09 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=test&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Fri May 08 05:12:18 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Fri May 08 05:12:38 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=information_schema&token=4318137cb4b33d8d91cc8fcdb40d2d83&table=VIEWS
+[Fri May 08 05:20:40 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 08 05:20:40 2009] [notice] Child 1644: Exit event signaled. Child process is ending.
+[Fri May 08 05:20:41 2009] [notice] Child 1644: Released the start mutex
+[Fri May 08 05:20:42 2009] [notice] Child 1644: Waiting for 250 worker threads to exit.
+[Fri May 08 05:20:42 2009] [notice] Child 1644: All worker threads have exited.
+[Fri May 08 05:20:42 2009] [notice] Child 1644: Child process is exiting
+[Fri May 08 05:20:42 2009] [notice] Parent: Child process exited successfully.
+[Fri May 08 18:42:30 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri May 08 18:42:30 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Fri May 08 18:42:31 2009] [notice] Parent: Created child process 1792
+[Fri May 08 18:42:31 2009] [notice] Child 1792: Child process is running
+[Fri May 08 18:42:31 2009] [notice] Child 1792: Acquired the start mutex.
+[Fri May 08 18:42:31 2009] [notice] Child 1792: Starting 250 worker threads.
+[Fri May 08 20:06:21 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 08 20:06:21 2009] [notice] Child 1792: Exit event signaled. Child process is ending.
+[Fri May 08 20:06:22 2009] [notice] Child 1792: Released the start mutex
+[Fri May 08 20:06:23 2009] [notice] Child 1792: Waiting for 250 worker threads to exit.
+[Fri May 08 20:06:23 2009] [notice] Child 1792: All worker threads have exited.
+[Fri May 08 20:06:23 2009] [notice] Child 1792: Child process is exiting
+[Fri May 08 20:06:23 2009] [notice] Parent: Child process exited successfully.
+[Fri May 08 23:23:32 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri May 08 23:23:32 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Fri May 08 23:23:32 2009] [notice] Parent: Created child process 1980
+[Fri May 08 23:23:32 2009] [notice] Child 1980: Child process is running
+[Fri May 08 23:23:32 2009] [notice] Child 1980: Acquired the start mutex.
+[Fri May 08 23:23:32 2009] [notice] Child 1980: Starting 250 worker threads.
+[Fri May 08 23:46:05 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Fri May 08 23:46:18 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_sql.php?db=mysql&token=bcc38f8ca410520b13a3cbd6d5119054&goto=db_structure.php&db_query_force=1
+[Fri May 08 23:46:19 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?db=mysql&token=bcc38f8ca410520b13a3cbd6d5119054
+[Sat May 09 00:31:38 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 09 00:31:38 2009] [notice] Child 1980: Exit event signaled. Child process is ending.
+[Sat May 09 00:31:39 2009] [notice] Child 1980: Released the start mutex
+[Sat May 09 00:31:40 2009] [notice] Child 1980: Waiting for 250 worker threads to exit.
+[Sat May 09 00:31:40 2009] [notice] Child 1980: All worker threads have exited.
+[Sat May 09 00:31:40 2009] [notice] Child 1980: Child process is exiting
+[Sat May 09 00:31:40 2009] [notice] Parent: Child process exited successfully.
+[Sat May 09 00:41:43 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 09 00:41:43 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 09 00:41:43 2009] [notice] Parent: Created child process 132
+[Sat May 09 00:41:43 2009] [notice] Child 132: Child process is running
+[Sat May 09 00:41:43 2009] [notice] Child 132: Acquired the start mutex.
+[Sat May 09 00:41:43 2009] [notice] Child 132: Starting 250 worker threads.
+[Sat May 09 02:26:28 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 09 02:26:28 2009] [notice] Child 132: Exit event signaled. Child process is ending.
+[Sat May 09 02:26:29 2009] [notice] Child 132: Released the start mutex
+[Sat May 09 02:26:30 2009] [notice] Child 132: Waiting for 250 worker threads to exit.
+[Sat May 09 02:26:30 2009] [notice] Child 132: All worker threads have exited.
+[Sat May 09 02:26:30 2009] [notice] Child 132: Child process is exiting
+[Sat May 09 02:26:30 2009] [notice] Parent: Child process exited successfully.
+[Sat May 09 09:04:57 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 09 09:04:57 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 09 09:04:57 2009] [notice] Parent: Created child process 1592
+[Sat May 09 09:04:57 2009] [notice] Child 1592: Child process is running
+[Sat May 09 09:04:57 2009] [notice] Child 1592: Acquired the start mutex.
+[Sat May 09 09:04:57 2009] [notice] Child 1592: Starting 250 worker threads.
+[Sat May 09 13:01:10 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 09 13:01:10 2009] [notice] Child 1592: Exit event signaled. Child process is ending.
+[Sat May 09 13:01:11 2009] [notice] Child 1592: Released the start mutex
+[Sat May 09 13:01:12 2009] [notice] Child 1592: Waiting for 250 worker threads to exit.
+[Sat May 09 13:01:12 2009] [notice] Child 1592: All worker threads have exited.
+[Sat May 09 13:01:12 2009] [notice] Child 1592: Child process is exiting
+[Sat May 09 13:01:12 2009] [notice] Parent: Child process exited successfully.
+[Sat May 09 20:11:03 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 09 20:11:03 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 09 20:11:03 2009] [notice] Parent: Created child process 604
+[Sat May 09 20:11:04 2009] [notice] Child 604: Child process is running
+[Sat May 09 20:11:04 2009] [notice] Child 604: Acquired the start mutex.
+[Sat May 09 20:11:04 2009] [notice] Child 604: Starting 250 worker threads.
+[Sat May 09 20:11:28 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/db_structure.php?server=1&db=mysql&table=&lang=zh-utf-8&collation_connection=utf8_unicode_ci
+[Sat May 09 20:12:37 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=mysql&token=388d396a1010ed504a7c84e490745ad9&table=db
+[Sat May 09 20:12:46 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=mysql&table=db&token=388d396a1010ed504a7c84e490745ad9&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Sat May 09 20:13:00 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=mysql&token=388d396a1010ed504a7c84e490745ad9&table=columns_priv
+[Sat May 09 20:13:04 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=mysql&token=388d396a1010ed504a7c84e490745ad9&table=func
+[Sat May 09 20:13:08 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=mysql&table=func&token=388d396a1010ed504a7c84e490745ad9&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Sat May 09 20:13:14 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=mysql&token=388d396a1010ed504a7c84e490745ad9&table=proc
+[Sat May 09 20:13:17 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=mysql&table=proc&token=388d396a1010ed504a7c84e490745ad9&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Sat May 09 20:13:27 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=mysql&token=388d396a1010ed504a7c84e490745ad9&table=time_zone_name
+[Sat May 09 22:00:38 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 09 22:00:38 2009] [notice] Child 604: Exit event signaled. Child process is ending.
+[Sat May 09 22:00:39 2009] [notice] Child 604: Released the start mutex
+[Sat May 09 22:00:40 2009] [notice] Child 604: Waiting for 250 worker threads to exit.
+[Sat May 09 22:00:40 2009] [notice] Child 604: All worker threads have exited.
+[Sat May 09 22:00:40 2009] [notice] Child 604: Child process is exiting
+[Sat May 09 22:00:40 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 02:53:56 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 02:53:56 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 02:53:56 2009] [notice] Parent: Created child process 2060
+[Sun May 10 02:53:56 2009] [notice] Child 2060: Child process is running
+[Sun May 10 02:53:56 2009] [notice] Child 2060: Acquired the start mutex.
+[Sun May 10 02:53:56 2009] [notice] Child 2060: Starting 250 worker threads.
+[Sun May 10 05:20:52 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 05:20:52 2009] [notice] Child 2060: Exit event signaled. Child process is ending.
+[Sun May 10 05:20:53 2009] [notice] Child 2060: Released the start mutex
+[Sun May 10 05:20:54 2009] [notice] Child 2060: Waiting for 250 worker threads to exit.
+[Sun May 10 05:20:54 2009] [notice] Child 2060: All worker threads have exited.
+[Sun May 10 05:20:54 2009] [notice] Child 2060: Child process is exiting
+[Sun May 10 05:20:54 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 11:43:15 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 11:43:15 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 11:43:15 2009] [notice] Parent: Created child process 672
+[Sun May 10 11:43:15 2009] [notice] Child 672: Child process is running
+[Sun May 10 11:43:15 2009] [notice] Child 672: Acquired the start mutex.
+[Sun May 10 11:43:15 2009] [notice] Child 672: Starting 250 worker threads.
+[Sun May 10 11:55:23 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 11:55:23 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 11:55:23 2009] [notice] Parent: Created child process 3060
+[Sun May 10 11:55:23 2009] [notice] Child 3060: Child process is running
+[Sun May 10 11:55:23 2009] [notice] Child 3060: Acquired the start mutex.
+[Sun May 10 11:55:23 2009] [notice] Child 3060: Starting 250 worker threads.
+[Sun May 10 11:55:47 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 11:55:47 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 11:55:47 2009] [notice] Parent: Created child process 2376
+[Sun May 10 11:55:47 2009] [notice] Child 2376: Child process is running
+[Sun May 10 11:55:47 2009] [notice] Child 2376: Acquired the start mutex.
+[Sun May 10 11:55:47 2009] [notice] Child 2376: Starting 250 worker threads.
+[Sun May 10 17:22:41 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 17:22:41 2009] [notice] Child 2376: Exit event signaled. Child process is ending.
+[Sun May 10 17:22:43 2009] [notice] Child 2376: Released the start mutex
+[Sun May 10 17:22:44 2009] [notice] Child 2376: Waiting for 250 worker threads to exit.
+[Sun May 10 17:22:44 2009] [notice] Child 2376: All worker threads have exited.
+[Sun May 10 17:22:44 2009] [notice] Child 2376: Child process is exiting
+[Sun May 10 17:22:44 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 17:30:47 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 17:30:47 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 17:30:47 2009] [notice] Parent: Created child process 2408
+[Sun May 10 17:30:48 2009] [notice] Child 2408: Child process is running
+[Sun May 10 17:30:48 2009] [notice] Child 2408: Acquired the start mutex.
+[Sun May 10 17:30:48 2009] [notice] Child 2408: Starting 250 worker threads.
+[Sun May 10 17:45:17 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 17:45:17 2009] [notice] Child 2408: Exit event signaled. Child process is ending.
+[Sun May 10 17:45:18 2009] [notice] Child 2408: Released the start mutex
+[Sun May 10 17:45:19 2009] [notice] Child 2408: Waiting for 250 worker threads to exit.
+[Sun May 10 17:45:19 2009] [notice] Child 2408: All worker threads have exited.
+[Sun May 10 17:45:19 2009] [notice] Child 2408: Child process is exiting
+[Sun May 10 17:45:19 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 17:45:55 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 17:45:55 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 17:45:55 2009] [notice] Parent: Created child process 2888
+[Sun May 10 17:45:56 2009] [notice] Child 2888: Child process is running
+[Sun May 10 17:45:56 2009] [notice] Child 2888: Acquired the start mutex.
+[Sun May 10 17:45:56 2009] [notice] Child 2888: Starting 250 worker threads.
+[Sun May 10 17:53:40 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 17:53:40 2009] [notice] Child 2888: Exit event signaled. Child process is ending.
+[Sun May 10 17:53:41 2009] [notice] Child 2888: Released the start mutex
+[Sun May 10 17:53:42 2009] [notice] Child 2888: Waiting for 250 worker threads to exit.
+[Sun May 10 17:53:42 2009] [notice] Child 2888: All worker threads have exited.
+[Sun May 10 17:53:42 2009] [notice] Child 2888: Child process is exiting
+[Sun May 10 17:53:42 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 17:54:08 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 17:54:08 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 17:54:08 2009] [notice] Parent: Created child process 3888
+[Sun May 10 17:54:08 2009] [notice] Child 3888: Child process is running
+[Sun May 10 17:54:08 2009] [notice] Child 3888: Acquired the start mutex.
+[Sun May 10 17:54:08 2009] [notice] Child 3888: Starting 250 worker threads.
+[Sun May 10 18:06:10 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 18:06:10 2009] [notice] Child 3888: Exit event signaled. Child process is ending.
+[Sun May 10 18:06:11 2009] [notice] Child 3888: Released the start mutex
+[Sun May 10 18:06:12 2009] [notice] Child 3888: Waiting for 250 worker threads to exit.
+[Sun May 10 18:06:12 2009] [notice] Child 3888: All worker threads have exited.
+[Sun May 10 18:06:12 2009] [notice] Child 3888: Child process is exiting
+[Sun May 10 18:06:12 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 18:06:29 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 18:06:29 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 18:06:29 2009] [notice] Parent: Created child process 2992
+[Sun May 10 18:06:29 2009] [notice] Child 2992: Child process is running
+[Sun May 10 18:06:29 2009] [notice] Child 2992: Acquired the start mutex.
+[Sun May 10 18:06:29 2009] [notice] Child 2992: Starting 250 worker threads.
+[Sun May 10 18:11:18 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 18:11:18 2009] [notice] Child 2992: Exit event signaled. Child process is ending.
+[Sun May 10 18:11:19 2009] [notice] Child 2992: Released the start mutex
+[Sun May 10 18:11:20 2009] [notice] Child 2992: Waiting for 250 worker threads to exit.
+[Sun May 10 18:11:20 2009] [notice] Child 2992: All worker threads have exited.
+[Sun May 10 18:11:20 2009] [notice] Child 2992: Child process is exiting
+[Sun May 10 18:11:20 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 18:11:42 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 18:11:42 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 18:11:42 2009] [notice] Parent: Created child process 600
+[Sun May 10 18:11:42 2009] [notice] Child 600: Child process is running
+[Sun May 10 18:11:42 2009] [notice] Child 600: Acquired the start mutex.
+[Sun May 10 18:11:42 2009] [notice] Child 600: Starting 250 worker threads.
+[Sun May 10 19:28:22 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 19:28:22 2009] [notice] Child 600: Exit event signaled. Child process is ending.
+[Sun May 10 19:28:23 2009] [notice] Child 600: Released the start mutex
+[Sun May 10 19:28:24 2009] [notice] Child 600: Waiting for 250 worker threads to exit.
+[Sun May 10 19:28:24 2009] [notice] Child 600: All worker threads have exited.
+[Sun May 10 19:28:24 2009] [notice] Child 600: Child process is exiting
+[Sun May 10 19:28:24 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 19:28:40 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 19:28:40 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 19:28:40 2009] [notice] Parent: Created child process 3704
+[Sun May 10 19:28:40 2009] [notice] Child 3704: Child process is running
+[Sun May 10 19:28:40 2009] [notice] Child 3704: Acquired the start mutex.
+[Sun May 10 19:28:40 2009] [notice] Child 3704: Starting 250 worker threads.
+[Sun May 10 19:37:27 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=8c6838c54555aac4cfe97f1b8433f42e&table=shortcuts
+[Sun May 10 19:37:32 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=saga&table=shortcuts&token=8c6838c54555aac4cfe97f1b8433f42e&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Sun May 10 19:37:34 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=saga&table=shortcuts&token=8c6838c54555aac4cfe97f1b8433f42e&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Sun May 10 19:51:57 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 19:51:57 2009] [notice] Child 3704: Exit event signaled. Child process is ending.
+[Sun May 10 19:51:58 2009] [notice] Child 3704: Released the start mutex
+[Sun May 10 19:51:59 2009] [notice] Child 3704: Waiting for 250 worker threads to exit.
+[Sun May 10 19:51:59 2009] [notice] Child 3704: All worker threads have exited.
+[Sun May 10 19:51:59 2009] [notice] Child 3704: Child process is exiting
+[Sun May 10 19:51:59 2009] [notice] Parent: Child process exited successfully.
+[Sun May 10 19:52:13 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 10 19:52:13 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 10 19:52:13 2009] [notice] Parent: Created child process 3128
+[Sun May 10 19:52:14 2009] [notice] Child 3128: Child process is running
+[Sun May 10 19:52:14 2009] [notice] Child 3128: Acquired the start mutex.
+[Sun May 10 19:52:14 2009] [notice] Child 3128: Starting 250 worker threads.
+[Sun May 10 20:23:01 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 10 20:23:01 2009] [notice] Child 3128: Exit event signaled. Child process is ending.
+[Sun May 10 20:23:02 2009] [notice] Child 3128: Released the start mutex
+[Sun May 10 20:23:03 2009] [notice] Child 3128: Waiting for 250 worker threads to exit.
+[Sun May 10 20:23:03 2009] [notice] Child 3128: All worker threads have exited.
+[Sun May 10 20:23:04 2009] [notice] Child 3128: Child process is exiting
+[Sun May 10 20:23:04 2009] [notice] Parent: Child process exited successfully.
+[Thu May 14 19:01:29 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu May 14 19:01:29 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Thu May 14 19:01:29 2009] [notice] Parent: Created child process 1932
+[Thu May 14 19:01:29 2009] [notice] Child 1932: Child process is running
+[Thu May 14 19:01:29 2009] [notice] Child 1932: Acquired the start mutex.
+[Thu May 14 19:01:29 2009] [notice] Child 1932: Starting 250 worker threads.
+[Thu May 14 19:03:40 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 14 19:03:40 2009] [notice] Child 1932: Exit event signaled. Child process is ending.
+[Thu May 14 19:03:41 2009] [notice] Child 1932: Released the start mutex
+[Thu May 14 19:03:42 2009] [notice] Child 1932: Waiting for 250 worker threads to exit.
+[Thu May 14 19:03:42 2009] [notice] Child 1932: All worker threads have exited.
+[Thu May 14 19:03:42 2009] [notice] Child 1932: Child process is exiting
+[Thu May 14 19:03:42 2009] [notice] Parent: Child process exited successfully.
+[Thu May 14 19:05:22 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu May 14 19:05:22 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Thu May 14 19:05:22 2009] [notice] Parent: Created child process 2764
+[Thu May 14 19:05:22 2009] [notice] Child 2764: Child process is running
+[Thu May 14 19:05:22 2009] [notice] Child 2764: Acquired the start mutex.
+[Thu May 14 19:05:22 2009] [notice] Child 2764: Starting 250 worker threads.
+[Thu May 14 19:21:52 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Thu May 14 19:21:52 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Thu May 14 19:21:52 2009] [notice] Parent: Created child process 2444
+[Thu May 14 19:21:52 2009] [notice] Child 2444: Child process is running
+[Thu May 14 19:21:52 2009] [notice] Child 2444: Acquired the start mutex.
+[Thu May 14 19:21:52 2009] [notice] Child 2444: Starting 250 worker threads.
+[Thu May 14 19:32:57 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=6b26b4ea4d1c2a1410e36659faa26074&table=shortcuts
+[Thu May 14 20:15:03 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=6b26b4ea4d1c2a1410e36659faa26074&table=shortcuts
+[Thu May 14 20:15:05 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=6b26b4ea4d1c2a1410e36659faa26074&table=shortcuts
+[Thu May 14 20:15:05 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/tbl_structure.php?db=saga&token=6b26b4ea4d1c2a1410e36659faa26074&table=shortcuts
+[Thu May 14 20:15:05 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=saga&table=shortcuts&token=6b26b4ea4d1c2a1410e36659faa26074&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Thu May 14 20:15:05 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=saga&table=shortcuts&token=6b26b4ea4d1c2a1410e36659faa26074&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Thu May 14 20:15:06 2009] [error] [client 127.0.0.1] File does not exist: W:/www/themes, referer: http://localhost/a/sql.php?db=saga&table=shortcuts&token=6b26b4ea4d1c2a1410e36659faa26074&goto=tbl_structure.php&back=tbl_structure.php&pos=0
+[Thu May 14 20:20:55 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 14 20:20:55 2009] [notice] Child 2444: Exit event signaled. Child process is ending.
+[Thu May 14 20:20:56 2009] [notice] Child 2444: Released the start mutex
+[Thu May 14 20:20:57 2009] [notice] Child 2444: Waiting for 250 worker threads to exit.
+[Thu May 14 20:20:57 2009] [notice] Child 2444: All worker threads have exited.
+[Thu May 14 20:20:57 2009] [notice] Child 2444: Child process is exiting
+[Thu May 14 20:20:57 2009] [notice] Parent: Child process exited successfully.
+[Fri May 15 22:25:32 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri May 15 22:25:33 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Fri May 15 22:25:33 2009] [notice] Parent: Created child process 1188
+[Fri May 15 22:25:33 2009] [notice] Child 1188: Child process is running
+[Fri May 15 22:25:33 2009] [notice] Child 1188: Acquired the start mutex.
+[Fri May 15 22:25:33 2009] [notice] Child 1188: Starting 250 worker threads.
+[Sat May 16 00:09:01 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 16 00:09:01 2009] [notice] Child 1188: Exit event signaled. Child process is ending.
+[Sat May 16 00:09:02 2009] [notice] Child 1188: Released the start mutex
+[Sat May 16 00:09:03 2009] [notice] Child 1188: Waiting for 250 worker threads to exit.
+[Sat May 16 00:09:04 2009] [notice] Child 1188: All worker threads have exited.
+[Sat May 16 00:09:04 2009] [notice] Child 1188: Child process is exiting
+[Sat May 16 00:09:04 2009] [notice] Parent: Child process exited successfully.
+[Sat May 16 12:21:24 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 16 12:21:24 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 16 12:21:24 2009] [notice] Parent: Created child process 176
+[Sat May 16 12:21:24 2009] [notice] Child 176: Child process is running
+[Sat May 16 12:21:24 2009] [notice] Child 176: Acquired the start mutex.
+[Sat May 16 12:21:24 2009] [notice] Child 176: Starting 250 worker threads.
+[Sat May 16 13:08:10 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 16 13:08:10 2009] [notice] Child 176: Exit event signaled. Child process is ending.
+[Sat May 16 13:08:11 2009] [notice] Child 176: Released the start mutex
+[Sat May 16 13:08:12 2009] [notice] Child 176: Waiting for 250 worker threads to exit.
+[Sat May 16 13:08:12 2009] [notice] Child 176: All worker threads have exited.
+[Sat May 16 13:08:12 2009] [notice] Child 176: Child process is exiting
+[Sat May 16 13:08:12 2009] [notice] Parent: Child process exited successfully.
+[Sat May 16 22:59:06 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 16 22:59:06 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 16 22:59:06 2009] [notice] Parent: Created child process 2040
+[Sat May 16 22:59:06 2009] [notice] Child 2040: Child process is running
+[Sat May 16 22:59:06 2009] [notice] Child 2040: Acquired the start mutex.
+[Sat May 16 22:59:06 2009] [notice] Child 2040: Starting 250 worker threads.
+[Sat May 16 23:48:49 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 16 23:48:49 2009] [notice] Child 2040: Exit event signaled. Child process is ending.
+[Sat May 16 23:48:50 2009] [notice] Child 2040: Released the start mutex
+[Sat May 16 23:48:51 2009] [notice] Child 2040: Waiting for 250 worker threads to exit.
+[Sat May 16 23:48:51 2009] [notice] Child 2040: All worker threads have exited.
+[Sat May 16 23:48:51 2009] [notice] Child 2040: Child process is exiting
+[Sat May 16 23:48:51 2009] [notice] Parent: Child process exited successfully.
+[Wed May 27 21:09:42 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Wed May 27 21:09:42 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Wed May 27 21:09:42 2009] [notice] Parent: Created child process 532
+[Wed May 27 21:09:42 2009] [notice] Child 532: Child process is running
+[Wed May 27 21:09:43 2009] [notice] Child 532: Acquired the start mutex.
+[Wed May 27 21:09:43 2009] [notice] Child 532: Starting 250 worker threads.
+[Wed May 27 21:19:15 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 27 21:19:15 2009] [notice] Child 532: Exit event signaled. Child process is ending.
+[Wed May 27 21:19:16 2009] [notice] Child 532: Released the start mutex
+[Wed May 27 21:19:17 2009] [notice] Child 532: Waiting for 250 worker threads to exit.
+[Wed May 27 21:19:17 2009] [notice] Child 532: All worker threads have exited.
+[Wed May 27 21:19:17 2009] [notice] Child 532: Child process is exiting
+[Wed May 27 21:19:17 2009] [notice] Parent: Child process exited successfully.
+[Sat May 30 11:24:23 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat May 30 11:24:23 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sat May 30 11:24:23 2009] [notice] Parent: Created child process 1652
+[Sat May 30 11:24:23 2009] [notice] Child 1652: Child process is running
+[Sat May 30 11:24:24 2009] [notice] Child 1652: Acquired the start mutex.
+[Sat May 30 11:24:24 2009] [notice] Child 1652: Starting 250 worker threads.
+[Sat May 30 13:12:55 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 30 13:12:55 2009] [notice] Child 1652: Exit event signaled. Child process is ending.
+[Sat May 30 13:12:56 2009] [notice] Child 1652: Released the start mutex
+[Sat May 30 13:12:57 2009] [notice] Child 1652: Waiting for 250 worker threads to exit.
+[Sat May 30 13:12:57 2009] [notice] Child 1652: All worker threads have exited.
+[Sat May 30 13:12:57 2009] [notice] Child 1652: Child process is exiting
+[Sat May 30 13:12:57 2009] [notice] Parent: Child process exited successfully.
+[Sun May 31 02:23:01 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 31 02:23:01 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 31 02:23:01 2009] [notice] Parent: Created child process 3796
+[Sun May 31 02:23:01 2009] [notice] Child 3796: Child process is running
+[Sun May 31 02:23:01 2009] [notice] Child 3796: Acquired the start mutex.
+[Sun May 31 02:23:01 2009] [notice] Child 3796: Starting 250 worker threads.
+[Sun May 31 04:20:06 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 31 04:20:06 2009] [notice] Child 3796: Exit event signaled. Child process is ending.
+[Sun May 31 04:20:07 2009] [notice] Child 3796: Released the start mutex
+[Sun May 31 04:20:08 2009] [notice] Child 3796: Waiting for 250 worker threads to exit.
+[Sun May 31 04:20:08 2009] [notice] Child 3796: All worker threads have exited.
+[Sun May 31 04:20:08 2009] [notice] Child 3796: Child process is exiting
+[Sun May 31 04:20:08 2009] [notice] Parent: Child process exited successfully.
+[Sun May 31 11:26:56 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 31 11:26:56 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 31 11:26:56 2009] [notice] Parent: Created child process 392
+[Sun May 31 11:26:56 2009] [notice] Child 392: Child process is running
+[Sun May 31 11:26:56 2009] [notice] Child 392: Acquired the start mutex.
+[Sun May 31 11:26:56 2009] [notice] Child 392: Starting 250 worker threads.
+[Sun May 31 13:13:40 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 31 13:13:40 2009] [notice] Child 392: Exit event signaled. Child process is ending.
+[Sun May 31 13:13:41 2009] [notice] Child 392: Released the start mutex
+[Sun May 31 13:13:42 2009] [notice] Child 392: Waiting for 250 worker threads to exit.
+[Sun May 31 13:13:42 2009] [notice] Child 392: All worker threads have exited.
+[Sun May 31 13:13:42 2009] [notice] Child 392: Child process is exiting
+[Sun May 31 13:13:42 2009] [notice] Parent: Child process exited successfully.
+[Sun May 31 18:24:54 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun May 31 18:24:54 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Sun May 31 18:24:54 2009] [notice] Parent: Created child process 392
+[Sun May 31 18:24:54 2009] [notice] Child 392: Child process is running
+[Sun May 31 18:24:54 2009] [notice] Child 392: Acquired the start mutex.
+[Sun May 31 18:24:54 2009] [notice] Child 392: Starting 250 worker threads.
+[Sun May 31 22:55:37 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 31 22:55:38 2009] [notice] Child 392: Exit event signaled. Child process is ending.
+[Sun May 31 22:55:39 2009] [notice] Child 392: Released the start mutex
+[Sun May 31 22:55:40 2009] [notice] Child 392: Waiting for 250 worker threads to exit.
+[Sun May 31 22:55:40 2009] [notice] Child 392: All worker threads have exited.
+[Sun May 31 22:55:40 2009] [notice] Child 392: Child process is exiting
+[Sun May 31 22:55:40 2009] [notice] Parent: Child process exited successfully.
+[Tue Jun 02 07:00:55 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Jun 02 07:00:55 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Jun 02 07:00:55 2009] [notice] Parent: Created child process 196
+[Tue Jun 02 07:00:56 2009] [notice] Child 196: Child process is running
+[Tue Jun 02 07:00:56 2009] [notice] Child 196: Acquired the start mutex.
+[Tue Jun 02 07:00:56 2009] [notice] Child 196: Starting 250 worker threads.
+[Tue Jun 02 08:52:50 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 02 08:52:50 2009] [notice] Child 196: Exit event signaled. Child process is ending.
+[Tue Jun 02 08:52:51 2009] [notice] Child 196: Released the start mutex
+[Tue Jun 02 08:52:52 2009] [notice] Child 196: Waiting for 250 worker threads to exit.
+[Tue Jun 02 08:52:52 2009] [notice] Child 196: All worker threads have exited.
+[Tue Jun 02 08:52:52 2009] [notice] Child 196: Child process is exiting
+[Tue Jun 02 08:52:52 2009] [notice] Parent: Child process exited successfully.
+[Tue Jun 02 13:47:21 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Jun 02 13:47:21 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Jun 02 13:47:21 2009] [notice] Parent: Created child process 1556
+[Tue Jun 02 13:47:21 2009] [notice] Child 1556: Child process is running
+[Tue Jun 02 13:47:21 2009] [notice] Child 1556: Acquired the start mutex.
+[Tue Jun 02 13:47:21 2009] [notice] Child 1556: Starting 250 worker threads.
+[Tue Jun 02 14:09:55 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 02 14:09:55 2009] [notice] Child 1556: Exit event signaled. Child process is ending.
+[Tue Jun 02 14:09:56 2009] [notice] Child 1556: Released the start mutex
+[Tue Jun 02 14:09:57 2009] [notice] Child 1556: Waiting for 250 worker threads to exit.
+[Tue Jun 02 14:09:57 2009] [notice] Child 1556: All worker threads have exited.
+[Tue Jun 02 14:09:57 2009] [notice] Child 1556: Child process is exiting
+[Tue Jun 02 14:09:57 2009] [notice] Parent: Child process exited successfully.
+[Tue Jun 02 19:49:43 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Jun 02 19:49:43 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Jun 02 19:49:43 2009] [notice] Parent: Created child process 2012
+[Tue Jun 02 19:49:43 2009] [notice] Child 2012: Child process is running
+[Tue Jun 02 19:49:43 2009] [notice] Child 2012: Acquired the start mutex.
+[Tue Jun 02 19:49:43 2009] [notice] Child 2012: Starting 250 worker threads.
+[Tue Jun 02 22:37:14 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 02 22:37:14 2009] [notice] Child 2012: Exit event signaled. Child process is ending.
+[Tue Jun 02 22:37:15 2009] [notice] Child 2012: Released the start mutex
+[Tue Jun 02 22:37:16 2009] [notice] Child 2012: Waiting for 250 worker threads to exit.
+[Tue Jun 02 22:37:16 2009] [notice] Child 2012: All worker threads have exited.
+[Tue Jun 02 22:37:16 2009] [notice] Child 2012: Child process is exiting
+[Tue Jun 02 22:37:16 2009] [notice] Parent: Child process exited successfully.
+[Fri Jun 05 19:56:16 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Fri Jun 05 19:56:16 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Fri Jun 05 19:56:16 2009] [notice] Parent: Created child process 1772
+[Fri Jun 05 19:56:16 2009] [notice] Child 1772: Child process is running
+[Fri Jun 05 19:56:16 2009] [notice] Child 1772: Acquired the start mutex.
+[Fri Jun 05 19:56:16 2009] [notice] Child 1772: Starting 250 worker threads.
+[Fri Jun 05 20:58:27 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 05 20:58:27 2009] [notice] Child 1772: Exit event signaled. Child process is ending.
+[Fri Jun 05 20:58:28 2009] [notice] Child 1772: Released the start mutex
+[Fri Jun 05 20:58:29 2009] [notice] Child 1772: Waiting for 250 worker threads to exit.
+[Fri Jun 05 20:58:29 2009] [notice] Child 1772: All worker threads have exited.
+[Fri Jun 05 20:58:29 2009] [notice] Child 1772: Child process is exiting
+[Fri Jun 05 20:58:29 2009] [notice] Parent: Child process exited successfully.
+[Tue Jun 09 09:40:16 2009] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Tue Jun 09 09:40:16 2009] [notice] Server built: Oct  9 2005 19:16:56
+[Tue Jun 09 09:40:16 2009] [notice] Parent: Created child process 2004
+[Tue Jun 09 09:40:17 2009] [notice] Child 2004: Child process is running
+[Tue Jun 09 09:40:17 2009] [notice] Child 2004: Acquired the start mutex.
+[Tue Jun 09 09:40:17 2009] [notice] Child 2004: Starting 250 worker threads.
+[Tue Jun 09 14:34:55 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 09 14:34:55 2009] [notice] Child 2004: Exit event signaled. Child process is ending.
+[Tue Jun 09 14:34:56 2009] [notice] Child 2004: Released the start mutex
+[Tue Jun 09 14:34:57 2009] [notice] Child 2004: Waiting for 250 worker threads to exit.
+[Tue Jun 09 14:34:57 2009] [notice] Child 2004: All worker threads have exited.
+[Tue Jun 09 14:34:57 2009] [notice] Child 2004: Child process is exiting
+[Tue Jun 09 14:34:57 2009] [notice] Parent: Child process exited successfully.
+[Sat Jun 24 11:10:29 2023] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sat Jun 24 11:10:29 2023] [notice] Server built: Oct  9 2005 19:16:56
+[Sat Jun 24 11:10:29 2023] [notice] Parent: Created child process 14912
+[Sat Jun 24 11:10:29 2023] [notice] Child 14912: Child process is running
+[Sat Jun 24 11:10:29 2023] [notice] Child 14912: Acquired the start mutex.
+[Sat Jun 24 11:10:29 2023] [notice] Child 14912: Starting 250 worker threads.
+[Sun Jun 25 10:03:10 2023] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Jun 25 10:03:10 2023] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Jun 25 10:03:10 2023] [notice] Parent: Created child process 18212
+[Sun Jun 25 10:03:10 2023] [notice] Child 18212: Child process is running
+[Sun Jun 25 10:03:10 2023] [notice] Child 18212: Acquired the start mutex.
+[Sun Jun 25 10:03:10 2023] [notice] Child 18212: Starting 250 worker threads.
+[Sun Jun 25 10:08:01 2023] [warn] pid file W:/usr/local/Apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 25 10:08:01 2023] [notice] Apache/2.0.55 (Win32) PHP/5.1.1 configured -- resuming normal operations
+[Sun Jun 25 10:08:01 2023] [notice] Server built: Oct  9 2005 19:16:56
+[Sun Jun 25 10:08:01 2023] [notice] Parent: Created child process 3288
+[Sun Jun 25 10:08:01 2023] [notice] Child 3288: Child process is running
+[Sun Jun 25 10:08:01 2023] [notice] Child 3288: Acquired the start mutex.
+[Sun Jun 25 10:08:01 2023] [notice] Child 3288: Starting 250 worker threads.
